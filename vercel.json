@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "styles.css", "use": "@vercel/static" },
+    { "src": "app.js", "use": "@vercel/static" },
+    { "src": "dashboard-data.json", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/index.html" },
+    { "src": "/app.js", "dest": "/app.js" },
+    { "src": "/styles.css", "dest": "/styles.css" },
+    { "src": "/dashboard-data.json", "dest": "/dashboard-data.json" }
+  ]
+}

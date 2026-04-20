@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interactive LLM Search Comparison</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <div class="hero-heading">
+            <p class="eyebrow">Search Engine Benchmarking</p>
+            <h1>LLM based Auto Analyser</h1>
+            <p class="hero-text">
+              Compare search engines for AE, SA, or both using manual keywords or auto-selected
+              query samples.
+            </p>
+          </div>
+          <div class="hero-run-summary">
+            <div class="hero-metrics" id="heroMetrics"></div>
+            <div class="hero-status" id="inputSummary">Loading pipeline configuration...</div>
+            <div class="hero-status secondary" id="runMeta">No run has been executed yet.</div>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Interactive pipeline runner">
+          <p class="hero-panel-label">Pipeline Runner</p>
+          <h2 class="hero-panel-title">Configure and launch a live run</h2>
+
+          <div class="hero-panel-list">
+            <div class="hero-panel-item">
+              <span class="hero-panel-kicker">Countries</span>
+              <div class="checkbox-group" id="countryCheckboxes">
+                <label class="check-card">
+                  <input type="checkbox" name="country" value="ae" checked />
+                  <span>AE</span>
+                </label>
+                <label class="check-card">
+                  <input type="checkbox" name="country" value="sa" checked />
+                  <span>SA</span>
+                </label>
+              </div>
+            </div>
+
+            <div class="hero-panel-item">
+              <span class="hero-panel-kicker">Input Mode</span>
+              <select id="inputMode">
+                <option value="manual">Manual keywords</option>
+                <option value="auto">Auto-select from query source</option>
+              </select>
+            </div>
+
+            <div class="hero-panel-item">
+              <span class="hero-panel-kicker">Experiment</span>
+              <select id="experimentSelect">
+                <option value="long-tail">Long-tail queries (long-tail-queries-{country})</option>
+                <option value="main-search">Main search (search-{country})</option>
+              </select>
+            </div>
+
+            <div class="hero-panel-item">
+              <span class="hero-panel-kicker">Engines To Compare</span>
+              <div class="engine-input-grid">
+                <label class="text-block inline-field">
+                  <span>Engine 1</span>
+                  <input id="engineInput1" type="text" placeholder="google" />
+                </label>
+                <label class="text-block inline-field">
+                  <span>Engine 2</span>
+                  <input id="engineInput2" type="text" placeholder="rrf-v4" />
+                </label>
+                <label class="text-block inline-field">
+                  <span>Engine 3</span>
+                  <input id="engineInput3" type="text" placeholder="mmr-inten2" />
+                </label>
+                <label class="text-block inline-field">
+                  <span>Engine 4</span>
+                  <input id="engineInput4" type="text" placeholder="optional" />
+                </label>
+              </div>
+            </div>
+
+            <div class="hero-panel-item" id="manualControls">
+              <span class="hero-panel-kicker">Manual Keywords</span>
+              <label class="text-block">
+                <span>AE keywords</span>
+                <textarea id="manualKeywordsAe" placeholder="One keyword per line, up to 50 for AE"></textarea>
+              </label>
+              <label class="text-block">
+                <span>SA keywords</span>
+                <textarea id="manualKeywordsSa" placeholder="One keyword per line, up to 50 for SA"></textarea>
+              </label>
+            </div>
+
+            <div class="hero-panel-item" id="autoControls" hidden>
+              <span class="hero-panel-kicker">Auto Selection</span>
+              <label class="text-block inline-field">
+                <span>Max keywords per country</span>
+                <input id="maxKeywordsPerCountry" type="number" min="1" max="50" />
+              </label>
+              <label class="text-block inline-field">
+                <span>BigQuery project id</span>
+                <input id="projectId" type="text" />
+              </label>
+            </div>
+
+            <button id="runButton" class="run-button" type="button">Run Pipeline</button>
+            <div class="run-status" id="runStatus">Choose countries and keywords, then run the pipeline.</div>
+          </div>
+        </div>
+      </header>
+
+      <main class="dashboard-grid">
+        <aside class="filters-card">
+          <div class="section-head">
+            <p class="eyebrow">Results Filter</p>
+            <h2>Explore the current run</h2>
+          </div>
+
+          <div class="controls-stack">
+            <label class="field">
+              <span>Country</span>
+              <select id="countryFilter"></select>
+            </label>
+
+            <label class="field">
+              <span>Search query</span>
+              <select id="queryFilter"></select>
+            </label>
+
+            <label class="field">
+              <span>Compare engine</span>
+              <select id="engineFilter"></select>
+            </label>
+          </div>
+
+          <div class="legend-card">
+            <h3>How the live score is derived</h3>
+            <ul>
+              <li>Query-title relevance in the returned products</li>
+              <li>Brand match when the keyword is brand-aware</li>
+              <li>Returned rating as a lightweight popularity proxy</li>
+              <li>Rank ordering and delivery signal where available</li>
+            </ul>
+          </div>
+        </aside>
+
+        <section class="content-column">
+          <section class="panel">
+            <div class="section-head">
+              <p class="eyebrow">Query Level</p>
+              <h2 id="queryTitle">Engine comparison</h2>
+            </div>
+
+            <div id="winnerBanner" class="winner-banner"></div>
+            <div id="scoreCards" class="score-grid"></div>
+
+            <div class="insight-grid">
+              <div class="subpanel">
+                <h3>Comparative reasoning</h3>
+                <div id="reasonList" class="reason-list"></div>
+              </div>
+              <div class="subpanel">
+                <h3>Winner frequency in current country</h3>
+                <div id="winnerBreakdown" class="stack-bars"></div>
+              </div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="section-head">
+              <p class="eyebrow">Product Ranks</p>
+              <h2>Top products by engine</h2>
+            </div>
+            <div id="productTables" class="product-grid"></div>
+          </section>
+        </section>
+
+        <section class="country-column">
+          <section class="panel sticky-panel">
+            <div class="section-head">
+              <p class="eyebrow">Country Level</p>
+              <h2 id="countryTitle">Macro summary</h2>
+            </div>
+
+            <div id="countryRanking" class="ranking-list"></div>
+            <div id="countryVerdict" class="verdict-card"></div>
+
+            <div class="subpanel compact-panel">
+              <h3>Key differences</h3>
+              <div id="countryDifferences" class="reason-list"></div>
+            </div>
+
+            <div class="subpanel compact-panel">
+              <h3>Engine strengths and weaknesses</h3>
+              <div id="countryEngineCards" class="engine-summary-grid"></div>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,2729 @@
+{
+  "queryResults": [
+    {
+      "country": "sa",
+      "query": "\u0643\u0628\u0633\u0648\u0644\u0627\u062a \u0642\u0647\u0648\u0629 \u0643\u0627\u0628\u062a\u0634\u064a\u0646\u0648",
+      "winner": "google",
+      "reason": [
+        "Google's top result (Dolce Gusto Cappuccino Coffee Capsules) is a perfect match for the query '\u0643\u0628\u0633\u0648\u0644\u0627\u062a \u0642\u0647\u0648\u0629 \u0643\u0627\u0628\u062a\u0634\u064a\u0646\u0648' (cappuccino coffee capsules), while close7 and close4 both start with a coffee machine, which is not what the user is directly searching for.",
+        "Google has a higher density of relevant cappuccino coffee capsules in its top results (ranks 1, 5) compared to close7 and close4, which only have one relevant capsule product in their top 5 (rank 3).",
+        "Google includes a variety of capsule types (Dolce Gusto, Nespresso compatible) directly related to the query, whereas close7 and close4 are heavily skewed towards coffee machines.",
+        "All engines show products with 'express' delivery and similar 'units_l30d_norm' (all 0), so these criteria do not differentiate the engines significantly.",
+        "The ranking quality of Google is superior as it prioritizes the exact product type requested by the user, unlike close7 and close4 which prioritize coffee machines over capsules."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "4.0"
+        },
+        {
+          "engine": "close4",
+          "score": "4.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u064a\u0644\u0627\u0626\u0645 \u0641\u0648\u0645",
+      "winner": "google",
+      "reason": [
+        "Relevance to the query: The query '\u064a\u0644\u0627\u0626\u0645 \u0641\u0648\u0645' translates to 'fits foam' or 'suitable foam'. Google's results are significantly more relevant, focusing on products that are 'foam' or 'memory foam' and often 'fit' into something (e.g., shoe inserts, wrist pads, car seat headrests). Close7 and Close4, on the other hand, interpret '\u064a\u0644\u0627\u0626\u0645' as 'suitable' in a broader sense and '\u0641\u0648\u0645' as 'foam' but often in the context of foam products rather than things that 'fit' foam, leading to less precise results like foam rollers, foam mattresses, and foam cutters.",
+        "Brand match: All engines have a mix of known and generic brands. No engine stands out significantly in brand match for this specific query.",
+        "Product popularity: All listed products across all engines have a 'units_l30d_norm' of 0, making it impossible to differentiate based on product popularity.",
+        "Delivery desirability: All engines primarily offer 'express' delivery, with Google having one 'market' delivery item. This criterion does not significantly differentiate the engines.",
+        "Ranking quality: Google's ranking quality is superior because its top results are highly relevant to the nuanced meaning of the query ('fits foam'). For example, 'Cloud Wrist Pad Keyboard Mouse Wrist Pad Typing Wrist Pad PU Leather Memory Foam Wrist Pad' and 'Car Seat Headrest Neck Pillow Memory Foam Ergonomic Design' directly address the 'foam' aspect and the 'fitting' or 'suitability' aspect. Close7 and Close4's top results, while containing 'foam', are less aligned with the 'fits' part of the query, such as 'Kaira X Wired Gaming Headset' (memory foam cushions) and 'Exercise Foam Roller'."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062a\u0635\u063a\u064a\u0631 \u0643\u0639\u0628",
+      "winner": "google",
+      "reason": [
+        "Relevance: Google's results are highly relevant, offering various types of heel inserts and cushions to make shoes fit tighter or reduce heel size, directly addressing the query '\u062a\u0635\u063a\u064a\u0631 \u0643\u0639\u0628' (reducing heel size). Close4 and Close7 also offer relevant products (heel cushion pads, size reducers), but their titles are repetitive and less descriptive.",
+        "Brand Match: All engines primarily show 'generic' brands, which is acceptable for this product category. Google has a few named brands like 'viuauax', 'ikben', 'healife', 'chabeia', and 'elaimei', offering a slightly more diverse brand landscape.",
+        "Product Popularity: All products across all engines have a units_l30d_norm of 0, indicating no recent sales data is available for comparison. This criterion does not differentiate the engines.",
+        "Delivery Desirability: Google exclusively offers 'express' delivery, which is superior to the 'market' delivery offered by Close4 and Close7.",
+        "Ranking Quality: Google's ranking is diverse, presenting different types of heel-reducing solutions (grips, fillers, toe cushions, heel spur inserts) in its top 10. Close4 and Close7 show highly repetitive results, with the same product title appearing multiple times, indicating poor ranking quality and lack of product diversity within the top results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.0"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "rechargeable smart watch",
+      "winner": "google",
+      "reason": [
+        "Google's results are generally more relevant to 'rechargeable smart watch' for adults, whereas close7 and close4 heavily feature 'kids smart watch' which is a narrower interpretation of the query.",
+        "Google includes well-known brands like Apple (ranks 8 and 9), even if they appear lower, which is a significant brand match advantage over close7 and close4 which primarily feature generic or lesser-known brands.",
+        "All engines suffer from a lack of product popularity data (units_l30d_norm is 0 for all products), making this criterion non-discriminatory.",
+        "All engines predominantly offer 'express' delivery, so delivery desirability is not a differentiating factor.",
+        "Google's top results (ranks 1, 2, 7, 8, 9) are more aligned with a general 'rechargeable smart watch' search, including adult-oriented smartwatches and even premium brands. In contrast, close7 and close4's top results are dominated by children's smartwatches and even irrelevant items like 'Wireless Caregiver Call Button' (rank 3) and 'hearing aid' (rank 7), indicating poorer ranking quality for the broad query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "4.0"
+        },
+        {
+          "engine": "close4",
+          "score": "4.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0628\u0628\u0631\u0648\u0646\u0647 \u0627\u0637\u0641\u0627\u0644 \u0641\u064a\u0644\u064a\u0628\u0633",
+      "winner": "google",
+      "reason": [
+        "Google's results are highly relevant, with the top 3 products being Philips Avent baby bottles, directly matching the query '\u0628\u0628\u0631\u0648\u0646\u0647 \u0627\u0637\u0641\u0627\u0644 \u0641\u064a\u0644\u064a\u0628\u0633' (Philips baby bottle). In contrast, close7 and close4's top 4 results are Philips security cameras or other unrelated Philips products, showing a significant lack of relevance.",
+        "Google consistently features 'philips_avent' as the brand for relevant products, which is a perfect brand match for the query. close7 and close4 only start showing relevant 'philips_avent' products from rank 8, and even then, they are mixed with generic 'philips' products that are not baby bottles.",
+        "Google's ranking quality is superior, presenting the most relevant and brand-matched items at the very top. close7 and close4 bury the relevant products deep in their results, after many irrelevant items.",
+        "All engines primarily offer 'express' delivery for their products, so delivery desirability is not a strong differentiator in this comparison.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all relevant products in all engines, so it does not serve as a distinguishing factor."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "solar panel 200w",
+      "winner": "close4",
+      "reason": [
+        "Google's top result is a '200W Hybrid Solar Power System' which includes a 50W solar panel, not a 200W solar panel as directly requested by the query. This significantly impacts its relevance.",
+        "Close4 and Close7 both provide highly relevant results from rank 1, consistently featuring '200W Monocrystalline Solar Panel Kit' or similar, directly matching the query's core intent.",
+        "All engines show a lack of product popularity (units_l30d_norm: 0) and primarily offer 'market' delivery, making these criteria non-differentiating in this specific comparison.",
+        "Google's first result has an 'express' delivery type, which is better than the 'market' delivery of the other engines' top results. However, the relevance issue of Google's top result outweighs this delivery advantage.",
+        "Close4 and Close7 have identical results and ranking for the top 10 products, indicating similar underlying search algorithms or product catalogs for this query. Both are superior to Google in terms of initial relevance."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "star anise",
+      "winner": "close4",
+      "reason": [
+        "Google's results include several irrelevant items like 'Anise Whole Seeds', 'Anise Tea', and 'Anise Essential Oil' within the top 10, whereas close4 and close7 maintain a higher relevance to 'star anise' throughout their top results.",
+        "close4 and close7 both present a strong initial set of relevant 'star anise' products, with the first six items being highly relevant. Google introduces less relevant items earlier (rank 3, 6, 7, 9, 10).",
+        "close4 and close7 both have a single irrelevant item (anklet charm) at rank 7, which is a minor detractor compared to Google's multiple irrelevant items spread across its top 10.",
+        "All engines have products with 'express' and 'market' delivery types, and all have units_l30d_norm as 0, so these criteria do not differentiate the engines significantly for this query.",
+        "close4 and close7 are identical in their ranking and product selection for this query, hence they receive the same score and are jointly considered the best."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062a\u0644\u0641\u0648\u0646\u0627\u062a \u0639\u0631\u0648\u0636 \u0647\u0648\u0646\u0631 12\u0631\u0627\u0645",
+      "winner": "google",
+      "reason": [
+        "Relevance to the query: The query '\u062a\u0644\u0641\u0648\u0646\u0627\u062a \u0639\u0631\u0648\u0636 \u0647\u0648\u0646\u0631 12\u0631\u0627\u0645' translates to 'Honor phones offers 12GB RAM'. Google's results are highly relevant, with the top 3 products explicitly mentioning '12GB RAM' and all products being 'Honor' brand phones.",
+        "Brand match: All products returned by Google are from the 'honor' brand, which perfectly matches the query.",
+        "Product popularity: All products have a 'units_l30d_norm' of 0, which makes it impossible to differentiate based on popularity. This is a neutral factor for this evaluation.",
+        "Delivery desirability: All products have 'express' delivery, which is a good delivery option. There's no variation to compare across engines here.",
+        "Ranking quality: The top 3 results from Google directly match the '12GB RAM' requirement, which is excellent ranking quality. However, subsequent results (rank 4 onwards) include 8GB RAM phones, which are less relevant given the explicit '12GB RAM' in the query. If there were more engines, this would be a point of comparison for how well they prioritize the RAM specification."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "casio protrek",
+      "winner": "none",
+      "reason": [
+        "All engines returned identical results.",
+        "None of the engines returned any products relevant to 'Casio Protrek'. The query specifically asks for a 'Protrek' model, which is a distinct line of Casio watches known for outdoor features. All results were for other Casio lines like Edifice, G-Shock, or general Casio watches.",
+        "All products across all engines had a 'units_l30d_norm' of 0, indicating no popularity data or very low sales, which doesn't help in ranking quality.",
+        "All products across all engines had the same 'express' delivery type, so delivery desirability was not a differentiating factor.",
+        "Since no relevant products were found, the ranking quality for the specific query 'Casio Protrek' cannot be assessed meaningfully, as all results are irrelevant."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "1.0"
+        },
+        {
+          "engine": "close7",
+          "score": "1.0"
+        },
+        {
+          "engine": "google",
+          "score": "1.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0627\u064a\u0648\u0647 \u0646\u0633\u0627\u0626\u064a \u0645\u0642\u0627\u0633 \u0643\u0628\u064a\u0631",
+      "winner": "google",
+      "reason": [
+        "Relevance: Google is the only engine that returns actual swimsuits ('\u0645\u0627\u064a\u0648\u0647 \u0646\u0633\u0627\u0626\u064a') for the query. Both close4 and close7 return completely irrelevant items like waist trainers, play tents, and adult diapers.",
+        "Brand Match: Google successfully identifies and returns products from brands associated with swimwear, including 'ella_plus_by_namshi' and 'skin_need'. close4 and close7 show no relevant brand matches for swimwear.",
+        "Product Popularity: All engines show 0 units_l30d_norm for their top results, so this criterion does not differentiate them.",
+        "Delivery Desirability: All engines primarily offer 'express' delivery for their top results, so this criterion does not differentiate them significantly.",
+        "Ranking Quality: Google's top 10 results are all highly relevant to the query, demonstrating excellent ranking quality. In contrast, close4 and close7 fail to return any relevant items within their top 10, indicating very poor ranking quality."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "1.0"
+        },
+        {
+          "engine": "close7",
+          "score": "1.0"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0639\u0637\u0631 \u0639\u0648\u062f \u0645\u0648\u062f",
+      "winner": "google",
+      "reason": [
+        "Google's results are highly relevant, with all 10 products directly matching 'Oud Mood' or a close variant, primarily from the brand Lattafa, which is strongly associated with this product.",
+        "Close7 and Close4 include 'Crazy Moody' and 'Moody' from 'arabian_oud' and 'In The Mood' from 'alezz_oud' which are less direct matches to the query '\u0639\u0637\u0631 \u0639\u0648\u062f \u0645\u0648\u062f' (Oud Mood perfume). While 'Moody' is phonetically similar, it's not the exact product name.",
+        "Google consistently returns products with 'Oud Mood' in the title, indicating a strong brand match for the specific product requested. Close7 and Close4 dilute this with less precise matches.",
+        "All engines show units_l30d_norm as 0, so product popularity cannot be used as a differentiator.",
+        "All engines show 'express' delivery, so delivery desirability cannot be used as a differentiator.",
+        "Google demonstrates better ranking quality by prioritizing exact matches and variations of 'Oud Mood' from the most relevant brand (Lattafa) at the top. Close7 and Close4 intersperse less relevant items higher in their rankings (e.g., 'Crazy Moody' at rank 2)."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "samsung galaxy a55 256gb",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that returns the exact product 'samsung galaxy a55 256gb' at the top of its results (ranks 1 and 2).",
+        "Close7 and Close4 completely miss the 'A55' model, instead returning a mix of S-series and A56/A26 models, making them highly irrelevant.",
+        "While Google includes some irrelevant generic phone cases at lower ranks, its top results are perfectly relevant, unlike Close7 and Close4 which have no relevant results.",
+        "All engines show 'express' delivery for their top products, but this is only valuable if the product itself is relevant, which is only the case for Google.",
+        "Product popularity (units_l30d_norm) is 0 for all relevant products across all engines, so this criterion does not differentiate the engines."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "2.5"
+        },
+        {
+          "engine": "close4",
+          "score": "2.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0628\u062e\u0627\u062e \u062d\u0628\u0648\u0628 \u0627\u0644\u0628\u0646 \u0643\u0647\u0631\u0628\u0627\u0626\u064a",
+      "winner": "google",
+      "reason": [
+        "Google's results are significantly more relevant to the query '\u0628\u062e\u0627\u062e \u062d\u0628\u0648\u0628 \u0627\u0644\u0628\u0646 \u0643\u0647\u0631\u0628\u0627\u0626\u064a' (electric coffee bean sprayer) as almost all its top results are actual electric coffee bean sprayers. In contrast, close4 and close7 have several irrelevant items like full coffee maker kits, grinders, and roasters in their top results.",
+        "Google consistently ranks relevant electric coffee bean sprayers higher, with the first 8 out of 10 results being highly relevant. Close4 and close7 only have 3 relevant items in their top 5, and then scatter other relevant items further down.",
+        "All engines show products with 'express' delivery and 'units_l30d_norm' of 0, so there's no differentiation based on these criteria.",
+        "Google's results are more focused on the core product requested, whereas close4 and close7 dilute their results with broader coffee-related items that do not match the 'sprayer' aspect of the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "6.0"
+        },
+        {
+          "engine": "close7",
+          "score": "6.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "corkcicle",
+      "winner": "close4",
+      "reason": [
+        "All engines demonstrate excellent relevance and brand match, as every product listed is from the 'corkcicle' brand and directly relates to the query.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all products in all engines, so this criterion does not differentiate performance.",
+        "Delivery desirability is also uniformly 'market' across all products in all engines, so this criterion does not differentiate performance.",
+        "Google's results, while relevant, feature a wider variety of product types (canteen, stemless, cold cup, keep fresh canister) but don't necessarily prioritize the most common or popular Corkcicle items at the top.",
+        "Close4 and Close7 present identical results and ranking. They both start with a 'Classic Coffee Mug' and 'Cruiser Insulated Tumbler', which are popular Corkcicle product lines, suggesting a slightly better ranking quality for general appeal compared to Google's initial results.",
+        "Between Close4 and Close7, there is no discernible difference in their results or ranking, making them equally strong performers for this query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "9.0"
+        },
+        {
+          "engine": "close7",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "200 camera phone",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that correctly interprets '200 camera phone' as a search for a phone with a 200-megapixel camera or a phone model '200', offering actual phones in its results. Close4 and Close7 primarily return phone cases and accessories.",
+        "Google's results are highly relevant to the query, featuring various models of the Honor 200 series and one Realme phone, all of which are actual camera phones. Close4 and Close7's top results are phone cases, which are not the primary intent of the query.",
+        "Brand match is strong for Google, with 'Honor' being a prominent brand for camera phones. Close4 and Close7 have brands like 'rugged_shield' and 'insta360' which are relevant to accessories or gimbals, but not the core product.",
+        "All engines show 'express' delivery, so there's no significant differentiation in delivery desirability.",
+        "Ranking quality is significantly better in Google as it presents actual phones first, aligning with the user's likely intent. Close4 and Close7's rankings are poor because they prioritize accessories over the main product.",
+        "Product popularity (units_l30d_norm) is 0 for all products across all engines, so this criterion does not differentiate the engines."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "drynites pyjama pants",
+      "winner": "close7",
+      "reason": [
+        "All engines returned highly relevant products, specifically 'Drynites Pyjama Pants'.",
+        "All engines showed strong brand matching, with 'Huggies' being the correct brand for 'Drynites'.",
+        "Product popularity (units_l30d_norm) was 0 for all products across all engines, so this criterion did not differentiate performance.",
+        "close7 and close4 both presented the exact same top two products, with the first product having 'express' delivery and the second 'market' delivery, which is a good balance.",
+        "google's second result was for 'Boys' pants, while the query did not specify gender. While still relevant, it's slightly less precise than the 'Girls' pants offered by close7 and close4 in their second results, given the first result was also for girls.",
+        "close7 and close4 are marginally better due to their second result being more aligned with the gender implied by the first result (girls), or at least not introducing a different gender without explicit query instruction."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "8.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.0"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "cabinet drawer",
+      "winner": "google",
+      "reason": [
+        "Google's results are significantly more relevant to the query 'cabinet drawer', consistently featuring products explicitly described as 'drawer storage cabinet' or 'chest of drawers'. In contrast, close4 and close7 frequently list 'dressers' or 'storage towers' which, while related, are not direct matches for 'cabinet drawer'.",
+        "Google's top results (ranks 1-4, 7-8) directly match the query 'cabinet drawer' or 'drawer storage cabinet', whereas close4 and close7's top results are primarily 'dressers' which are a broader category.",
+        "All engines show units_l30d_norm as 0 for all products, so product popularity cannot be used as a differentiator.",
+        "All engines exclusively feature products with 'express' delivery, so delivery desirability is consistent across all.",
+        "Google demonstrates better ranking quality by placing highly relevant 'cabinet drawer' products at the top. Close4 and close7's top results are less precise matches for the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "mom to be decoration set",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that consistently returns 'mom to be decoration set' products, whereas close4 and close7 primarily return 'bride to be' decorations or general gift baskets.",
+        "Google's results are highly relevant to the query, with titles directly matching 'Mommy to Be Decoration Set' or similar phrases, unlike close4 and close7 which have many irrelevant items.",
+        "Close4 and close7 have a significant number of 'Bride to Be' decoration sets (ranks 1, 5, 8), which are completely irrelevant to a 'mom to be' query.",
+        "Google's top results (ranks 1-10) are all directly related to the query, demonstrating excellent ranking quality for this specific search.",
+        "Product popularity (units_l30d_norm) is 0 across all relevant products in all engines, so this criterion does not differentiate the engines.",
+        "Delivery desirability is consistently 'express' across all relevant products in all engines, so this criterion does not differentiate the engines."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "3.0"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "google",
+          "score": "9.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0633\u062e\u0627\u0646\u0627\u062a \u0628\u0648\u0641\u064a\u0647 \u0635\u063a\u064a\u0631\u0647",
+      "winner": "close7",
+      "reason": [
+        "Google's top results (ranks 1, 2, 6) are for 'luxurious' food warmers with 4-8 liter capacities, which are not explicitly 'small' as requested by the query '\u0635\u063a\u064a\u0631\u0647'. In contrast, close7 and close4 consistently feature 4.5L chafing dishes in their top ranks, which aligns better with 'small'.",
+        "Google includes several irrelevant items in its top 10, such as a '2-Tier Candy Tray' (rank 8) and 'Heater' products (ranks 9, 10) that are not buffet warmers. close7 and close4 maintain higher relevance throughout their top 10, with only a couple of less relevant portable lunch warmers appearing lower down.",
+        "close7 and close4 have identical and highly relevant results for the top 6 products, all of which are 'chafing dish buffet sets' or 'food warmers' with capacities around 4.5L, directly addressing the 'small buffet warmer' query.",
+        "All engines primarily offer products with 'express' delivery, so there isn't a significant differentiator in delivery desirability.",
+        "Product popularity (units_l30d_norm) is 0 for all relevant products across all engines, so this criterion does not differentiate performance.",
+        "The ranking quality of close7 and close4 is superior due to the consistent relevance of their top results to the 'small' aspect of the query, whereas Google's top results are more generic 'food warmers' and include irrelevant items."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0641\u0631\u0646\u0633\u0627",
+      "winner": "google",
+      "reason": [
+        "Google's results are more directly relevant to '\u0641\u0631\u0646\u0633\u0627' (France), featuring flags, football jerseys, and items explicitly 'Made in France'. In contrast, close7 and close4 primarily offer items described as 'French design' or 'French style', which is a less direct match to the query.",
+        "Google includes products from well-known brands like TEFAL, which are explicitly 'Made in France', enhancing brand match and authenticity for a query about France. close7 and close4 feature brands like Guess and Lacoste, but their connection to 'France' is often through 'French design' rather than origin.",
+        "Google's results include several items related to French football (jerseys, scarves), which are popular cultural representations of France, aligning better with potential user intent for a broad query like 'France'. close7 and close4's 'French style' items are more generic fashion accessories.",
+        "All engines predominantly offer 'express' delivery, so there's no significant differentiation in delivery desirability.",
+        "Google's top results (flags, football jerseys) are strong, direct matches for 'France', indicating better ranking quality for this broad query. close7 and close4's top results, while containing the word 'French', are less directly representative of the country itself."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "6.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u062d\u0648\u0644 \u0633\u0645\u0627\u0639\u0647 \u064a\u0648\u062c\u0631\u064a\u0646",
+      "winner": "google",
+      "reason": [
+        "Google consistently ranks Ugreen headphone adapters at the top, with 9 out of 10 results being highly relevant Ugreen headphone adapters, whereas close7 and close4 have more irrelevant items mixed in.",
+        "Google's top 3 results are all highly relevant Ugreen headphone adapters, directly matching the query's intent. close7 and close4's second result is an 'Aux to Bluetooth Car Receiver', which is less relevant than a direct headphone adapter.",
+        "Google has a higher concentration of Ugreen brand matches for the core product type (headphone adapters) compared to close7 and close4, which include other brands and product types earlier in their rankings.",
+        "All engines show products with 'express' delivery, and all products have 'units_l30d_norm' of 0, so these criteria do not differentiate the engines significantly.",
+        "Google's ranking quality is superior as it prioritizes the most relevant Ugreen headphone adapters at the very top, while close7 and close4 introduce less relevant items like gaming headsets and general splitters higher up."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.0"
+        },
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "6.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0634\u0646\u0637\u0647 chch",
+      "winner": "google",
+      "reason": [
+        "All engines show high relevance to the query '\u0634\u0646\u0637\u0647 chch' (CHCH bag) as all results are bags from the CHCH brand.",
+        "All engines consistently feature products with the 'chchmu' brand, which is a close match to 'CHCH'. 'ch_ch' also appears in all engines, which is also a good brand match.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all products in all engines, so this criterion does not differentiate the engines.",
+        "Delivery desirability is consistently 'express' for all products in all engines, so this criterion does not differentiate the engines.",
+        "Google's ranking quality is slightly better as it presents a wider variety of bag types (shoulder, handbag, crossbody, bucket) within the top 5 results compared to close4 and close7, which have more repetitive titles for the top 5 products.",
+        "Close4 and close7 have identical results and ranking, making them equally effective (or ineffective) in their presentation."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "7.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0627\u0644\u0648\u0627\u0646 \u0627\u0637\u0641\u0627\u0644 \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u063a\u0633\u064a\u0644",
+      "winner": "google",
+      "reason": [
+        "Google's results are almost entirely relevant to the query 'washable colors for kids', whereas close7 and close4 have a significant number of irrelevant products.",
+        "Google consistently returns products that are directly 'colors' (crayons, pens, paints), while close7 and close4 include items like bidets, lampshades, rugs, and nasal aspirators.",
+        "Google's top results (ranks 1-4) are highly relevant, featuring washable crayons, pens, and watercolor paints. In contrast, close7 and close4's top 5 results contain only one relevant item (rank 1) and four completely irrelevant items.",
+        "All engines show 'express' delivery, so there's no differentiation based on delivery desirability.",
+        "Product popularity (units_l30d_norm) is 0 for all relevant items across all engines, so this criterion does not differentiate the engines.",
+        "Google demonstrates superior ranking quality by placing relevant items at the top, while close7 and close4 fail significantly in this aspect by interspersing relevant items with highly irrelevant ones."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0633\u0637\u062d \u0644\u0644\u0634\u0627\u0631\u0628",
+      "winner": "google",
+      "reason": [
+        "Google's results, while not perfect, are the only ones that attempt to interpret '\u0645\u0633\u0637\u062d \u0644\u0644\u0634\u0627\u0631\u0628' (flat for mustache) as related to hair/mustache grooming tools (e.g., combs, tweezers), whereas close7 and close4 completely misinterpret '\u0634\u0627\u0631\u0628' (mustache) as 'whisker' (for cats) or 'moustaches' (decorative items).",
+        "Google has a few products (ranks 1, 4) that are somewhat relevant to hair/mustache styling, even if not directly 'flat for mustache'. The other engines are entirely off-topic.",
+        "All engines suffer from low product popularity (units_l30d_norm: 0) across the board, making it difficult to differentiate based on this criterion.",
+        "Delivery desirability is mostly 'market' across all engines, with Google having one 'express' item, which is a minor advantage.",
+        "Ranking quality is poor for all engines due to the low relevance of most results. However, Google's top results are marginally more relevant than the top results of close7 and close4."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "3.5"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0628\u0643\u062c\u0627\u062a \u0645\u0643\u064a\u0627\u062c",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that correctly interprets '\u0628\u0643\u062c\u0627\u062a \u0645\u0643\u064a\u0627\u062c' (makeup kits/bundles) and returns relevant results. Close4 and Close7 primarily return individual makeup items or accessories, not kits.",
+        "Google's top results (Dior Backstage Makeup Set, Elf Makeup Kit, Lora All Cosmetics Products In One Box Makeup BOX) are highly relevant to the query, whereas Close4 and Close7's top results are micellar water, brush sets, and concealers.",
+        "Brand match is better in Google for the query's intent, featuring brands like Dior and Elf that offer makeup kits. Close4 and Close7 feature brands like Garnier and Maybelline New York, which are good brands but their products shown are not kits.",
+        "All engines predominantly offer 'express' delivery, so delivery desirability does not differentiate them significantly for this query.",
+        "Ranking quality is significantly better in Google because its top-ranked items are actual makeup kits, aligning perfectly with the user's intent. Close4 and Close7's ranking quality is poor as their top items are not kits.",
+        "Close4 and Close7 are identical in their results and performance for this query, both failing to understand the '\u0628\u0643\u062c\u0627\u062a' (kits/bundles) aspect of the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "3.0"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "samsung tab 256",
+      "winner": "close4",
+      "reason": [
+        "All engines successfully returned only Samsung brand tablets, fulfilling the brand match criteria perfectly.",
+        "All engines returned products with '256GB' in the title, indicating good relevance to the storage capacity query.",
+        "Google's results include a product (rank 9) with '128GB' storage, which is a clear mismatch to the '256' part of the query, whereas close4 and close7 maintain 256GB for all top 10 results.",
+        "Google's top results (ranks 1, 3, 5) are for the 'Galaxy Tab S10 Plus', which is a higher-end model, while close4 and close7 prioritize 'Galaxy Tab A11 Plus' in their top 3. Given the query 'samsung tab 256' is quite generic, a mix of models or slightly more affordable options at the top might be preferred, but the S-series are generally more desirable.",
+        "Close4 and close7 have identical results and ranking for the top 10, making them equally strong in this comparison.",
+        "All products across all engines have a 'units_l30d_norm' of 0, so product popularity cannot be used as a distinguishing factor.",
+        "All products across all engines have 'express' delivery, so delivery desirability cannot be used as a distinguishing factor."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "vivo y76",
+      "winner": "google",
+      "reason": [
+        "All engines returned only protective cases for 'Vivo Y76 5G' instead of the phone itself, indicating a significant relevance issue across the board.",
+        "None of the products across any engine had any sales data (units_l30d_norm: 0), making it impossible to differentiate based on product popularity.",
+        "All products across all engines had the same 'express' delivery type, so delivery desirability is not a differentiating factor.",
+        "Since all engines returned the same type of irrelevant products (cases instead of the phone), and all other metrics are identical, there is no clear winner based on the provided data. However, Google is arbitrarily chosen as the winner due to its general market dominance, but this is not based on the provided data.",
+        "The ranking quality cannot be assessed as all products are equally irrelevant to the primary query and have identical popularity and delivery desirability."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "4.0"
+        },
+        {
+          "engine": "close7",
+          "score": "4.0"
+        },
+        {
+          "engine": "close4",
+          "score": "4.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0639\u062c\u0648\u0646 \u0628\u0631\u062f\u0648\u0646 \u062f\u064a\u0643\u0633",
+      "winner": "google",
+      "reason": [
+        "Google correctly interpreted '\u0645\u0639\u062c\u0648\u0646 \u0628\u0631\u062f\u0648\u0646 \u062f\u064a\u0643\u0633' as 'Parodontax' toothpaste, while close7 and close4 interpreted '\u062f\u064a\u0643\u0633' as 'Dexe' toothpaste, which is a less relevant brand match for the full query.",
+        "Google provided 10 relevant Parodontax toothpaste products, demonstrating a strong understanding of the user's intent. Close7 and close4 each returned only one product, and that product was for the incorrect brand.",
+        "All products from Google had an 'express' delivery type, which is more desirable than the 'market' delivery type offered by close7 and close4.",
+        "Google's results showed a variety of Parodontax toothpaste types (Complete Protection, Whitening, Original Gum Protection, etc.), offering a comprehensive selection for the user. Close7 and close4 only offered one specific Dexe toothpaste.",
+        "While all engines showed units_l30d_norm as 0, Google's overall relevance and brand match significantly outweigh this factor in this specific query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0627\u0643\u0648\u0627\u0628 \u0642\u0647\u0648\u0629 \u062a\u0631\u0643\u064a\u0647",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that consistently returns actual 'Turkish coffee cups' (\u0627\u0643\u0648\u0627\u0628 \u0642\u0647\u0648\u0629 \u062a\u0631\u0643\u064a\u0647) as requested by the query. Close7 and Close4 predominantly return coffee makers and grinders, which are not what the user asked for.",
+        "Relevance to the query is significantly higher for Google. All of Google's top 10 results are relevant, whereas Close7 and Close4 only have 3 relevant results each (ranks 5, 6, 9).",
+        "Ranking quality is excellent for Google, with all relevant items appearing at the top. Close7 and Close4 bury their few relevant items lower in the results, after many irrelevant items.",
+        "Brand match is not a significant differentiator as most products across all engines have low units_l30d_norm, indicating no strong popular brands are present or being surfaced.",
+        "Delivery desirability (all 'express') is consistent across all engines and therefore not a distinguishing factor in this comparison."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "juvia's place",
+      "winner": "close4",
+      "reason": [
+        "All engines demonstrate excellent relevance and brand match, with every product being from 'Juvia's Place'.",
+        "Google's top result has an 'express' delivery type, which is good, but the subsequent results are all 'market' delivery, similar to close4 and close7.",
+        "Close4 and Close7 have identical results and ranking for the top 10 products, making them equally strong in this comparison.",
+        "Google's results include several eyeshadow palettes (ranks 3, 8, 9, 10) which, while relevant, might be less diverse than the mix of concealers, liquid eyeshadows, luminizers, and lip glosses offered by close4 and close7 in their top 10.",
+        "Close4 and Close7 offer a broader range of product types (concealers, liquid eyeshadow, luminizer, lip gloss) within their top 10, suggesting a slightly better representation of the brand's offerings compared to Google's heavier emphasis on eyeshadows.",
+        "Since all units_l30d_norm values are 0, product popularity cannot be used as a differentiating factor in this evaluation."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close4",
+          "score": "9.0"
+        },
+        {
+          "engine": "close7",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "cuboard organizer",
+      "winner": "close4",
+      "reason": [
+        "Google's results are generally relevant to 'organizer' but many items are not specifically 'cuboard' organizers, or are general storage solutions. Close4 and Close7, however, directly address 'cuboard organizer' with highly relevant products.",
+        "Close4 and Close7 show strong brand consistency with 'Kuber Industries' which is a positive for brand match if the user is looking for a specific brand or type of product. Google has a wider variety of brands, which could be good for discovery but less focused for this specific query.",
+        "All engines show 0 units_l30d_norm, so product popularity cannot be a distinguishing factor in this evaluation.",
+        "Google's delivery type is 'express' for all results, which is better than 'market' delivery from Close4 and Close7. However, the superior relevance of Close4 and Close7 outweighs Google's delivery advantage for this specific query.",
+        "Close4 and Close7 have excellent ranking quality, with highly relevant products appearing at the top. Google's ranking quality is fair, but the relevance of its top results is not as strong for 'cuboard organizer' specifically."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0627\u0643\u064a\u0627\u0633 \u0646\u0641\u0627\u064a\u0627\u062a \u062d\u0641\u0627\u064a\u0636 \u0627\u0637\u0641\u0627\u0644",
+      "winner": "close4",
+      "reason": [
+        "Relevance: All engines show highly relevant results for 'diaper disposal bags' or 'baby waste bags'. The query '\u0627\u0643\u064a\u0627\u0633 \u0646\u0641\u0627\u064a\u0627\u062a \u062d\u0641\u0627\u064a\u0636 \u0627\u0637\u0641\u0627\u0644' directly translates to 'diaper waste bags for children'.",
+        "Brand Match: All engines primarily feature generic or less prominent brands, which is acceptable given the product type. No engine stands out significantly in terms of brand match.",
+        "Product Popularity: All products across all engines have a 'units_l30d_norm' of 0, indicating no recent sales data is available or they are new listings. This criterion cannot differentiate the engines.",
+        "Delivery Desirability: All products across all engines are listed with 'express' delivery, so this criterion does not differentiate the engines.",
+        "Ranking Quality: close4 and close7 have identical results and ranking. They both start with a clear '100-Piece Diaper Disposal Bags' which is a good, direct match. Google's top result is also relevant but slightly less specific ('Scented Diaper Bag Refills') compared to the direct 'Diaper Disposal Bags' from close4/close7.",
+        "Diversity of Results: close4 and close7 show a good variety of bag counts and styles (vest-style, rolls with dispenser) within the top results. Google also offers variety but has a few more 'generic' titled items higher up.",
+        "Redundancy: close4 and close7 have significant redundancy with the 'luqu' brand appearing multiple times with only color variations (ranks 2, 4, 5, 7, 8, 10). Google also has some redundancy (e.g., generic scented refills at ranks 1, 5, 8) but it's slightly less pronounced in the very top results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        },
+        {
+          "engine": "google",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0628\u0627\u0633\u0643\u062a \u0645\u0642\u0627\u0633 58",
+      "winner": "google",
+      "reason": [
+        "All engines returned the exact same product at rank 1, making them equally relevant to the query '\u0628\u0627\u0633\u0643\u062a \u0645\u0642\u0627\u0633 58' (basket size 58), as the product title includes 'basket 58mm'.",
+        "All engines displayed the same brand 'mibru' for the top product.",
+        "All engines showed the same product popularity (units_l30d_norm: 0), indicating no differentiation in this criterion.",
+        "All engines offered the same delivery desirability ('express') for the top product.",
+        "Since all engines returned identical results for the top product, there is no difference in ranking quality among them for this specific query and result set. Google is arbitrarily chosen as the winner due to its general market dominance, but based purely on the provided data, they are indistinguishable."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.0"
+        },
+        {
+          "engine": "close7",
+          "score": "7.0"
+        },
+        {
+          "engine": "close4",
+          "score": "7.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0643\u0631\u0633\u064a \u0637\u0639\u0627\u0645 \u0645\u062a\u062d\u0631\u0643",
+      "winner": "google",
+      "reason": [
+        "Google's results are significantly more relevant to '\u0643\u0631\u0633\u064a \u0637\u0639\u0627\u0645 \u0645\u062a\u062d\u0631\u0643' (mobile dining chair/high chair) with multiple baby high chairs and a 3-in-1 high chair appearing in the top 10 (ranks 1, 7, 8).",
+        "Close4 and Close7 primarily return 'wheelchair tray tables' and other unrelated items, indicating a misinterpretation of '\u0645\u062a\u062d\u0631\u0643' (mobile) as related to wheelchairs rather than a mobile high chair for dining.",
+        "Google has a higher concentration of relevant products within the top ranks, whereas Close4 and Close7 have very few relevant items, and those are not highly ranked.",
+        "Google's top relevant products (baby high chairs) are more aligned with the likely user intent for 'dining chair' that is 'mobile' or 'adjustable' for a child.",
+        "Delivery desirability is generally 'express' across all engines for the few relevant items, so this criterion doesn't strongly differentiate the engines for relevant products."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "regrowth shampoo",
+      "winner": "close4",
+      "reason": [
+        "All engines show good relevance to the query 'regrowth shampoo', with most results explicitly mentioning 'hair growth' or 'regrowth' and 'shampoo'.",
+        "Google's results include a 'beard growth shampoo' at rank 10, which is less relevant to the primary query of 'regrowth shampoo' for head hair.",
+        "Close4 and Close7 both feature Rogaine at rank 2, a well-known and reputable brand in hair regrowth, which is a strong brand match and adds credibility to the results. Google lacks this prominent brand.",
+        "Close4 and Close7 both include a 'Minoxidil Plus 2% Shampoo' at rank 4, which is a highly relevant active ingredient for hair regrowth, indicating a better understanding of user intent compared to Google's more generic offerings at similar ranks.",
+        "Google's results have a higher proportion of less established or generic brands compared to Close4 and Close7, which feature a mix of known and lesser-known brands but with more specific product formulations (e.g., Minoxidil).",
+        "All engines have a 'units_l30d_norm' of 0 for all products, so product popularity cannot be used as a differentiator in this comparison.",
+        "All engines exclusively offer 'express' delivery, so delivery desirability is not a differentiating factor.",
+        "Close4 and Close7 have identical results and ranking for the top 10 products, indicating similar underlying algorithms or data sources for this query.",
+        "The inclusion of a conditioner at rank 7 in Close4 and Close7, while related to hair growth, is not a 'shampoo' as explicitly requested in the query, slightly reducing their perfect score. However, it's still highly relevant to the overall goal of hair regrowth.",
+        "Google's ranking quality is slightly lower due to the inclusion of the beard shampoo and the absence of a strong, well-known brand like Rogaine in the top results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "non stick ladle",
+      "winner": "google",
+      "reason": [
+        "Google's top 3 results are all individual non-stick ladles, directly matching the query. In contrast, close4 and close7's top 2 results are sets that include a ladle, but are not primarily a ladle.",
+        "Google has a higher concentration of individual non-stick ladles within its top 5 results (4 out of 5) compared to close4 and close7 (2 out of 5).",
+        "Google's results are more focused on the core product 'non stick ladle', whereas close4 and close7 frequently present large kitchen utensil sets or cookware sets where the ladle is just one component, diluting relevance.",
+        "All engines have similar delivery desirability for their top results (mostly 'express'), and product popularity (units_l30d_norm) is consistently 0 across all top results, making these criteria less differentiating in this specific comparison.",
+        "Google's ranking quality is superior as it prioritizes direct matches to the query at higher ranks."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062d\u0642\u064a\u0628\u0647 \u0645\u062f\u0631\u0633\u064a\u0647 \u0632\u0631\u0642\u0627\u0621 \u0644\u0644\u0628\u0646\u0627\u062a",
+      "winner": "google",
+      "reason": [
+        "Google's results are significantly more relevant to the query '\u062d\u0642\u064a\u0628\u0647 \u0645\u062f\u0631\u0633\u064a\u0647 \u0632\u0631\u0642\u0627\u0621 \u0644\u0644\u0628\u0646\u0627\u062a' (blue school bag for girls) by consistently featuring blue school bags or school bags with blue elements, whereas close7 and close4 have very few blue items and many irrelevant items like pencil cases, lunch boxes, and building blocks.",
+        "Google's top results (ranks 2, 4, 5, 8) explicitly mention 'blue' or show blue products, directly addressing the color specified in the query. close7 and close4 completely miss the 'blue' aspect.",
+        "Google has a higher proportion of actual 'school bags' or 'backpacks' for girls in its top results compared to close7 and close4, which include many non-bag items.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all engines for the provided results, so this criterion does not differentiate the engines.",
+        "Delivery desirability is uniformly 'express' across all engines for the provided results, so this criterion does not differentiate the engines.",
+        "Ranking quality is better for Google as its relevant items appear higher in the list, while close7 and close4 have highly irrelevant items at the top ranks (e.g., Unicorn Gift Set, Building Blocks)."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "4.5"
+        },
+        {
+          "engine": "close4",
+          "score": "4.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0637\u064a\u0633 \u0628\u0644\u0627\u0633\u062a\u0643",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that returns relevant products for the query '\u0637\u064a\u0633 \u0628\u0644\u0627\u0633\u062a\u0643' (plastic hubcaps/wheel covers). The other engines return completely irrelevant items.",
+        "Google's results consistently feature products like 'Wheel Hub Trim Cover Set', 'ATV Wheel Hub Trim', and 'Plastic Mud Flaps', which align with the likely intent of the query. The other engines show toys, water bottles, and medical supplies.",
+        "All products across all engines have a units_l30d_norm of 0, so product popularity is not a differentiating factor in this evaluation.",
+        "Delivery desirability is generally 'market' for Google, while 'close4' and 'close7' have a mix of 'market' and 'express'. However, the irrelevance of products in 'close4' and 'close7' makes their delivery types moot.",
+        "Google's ranking quality is good because all its results, despite some variations in specific product type (e.g., mushroom lampshades vs. wheel trims), are at least plastic items, and many are directly related to vehicle wheel covers. The other engines have no ranking quality to assess for this query due to complete irrelevance."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "1.0"
+        },
+        {
+          "engine": "close7",
+          "score": "1.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0637\u0631\u0642\u0647 \u0645\u0637\u0627\u0637\u064a\u0647",
+      "winner": "google",
+      "reason": [
+        "Google's results are almost entirely relevant to '\u0645\u0637\u0631\u0642\u0647 \u0645\u0637\u0627\u0637\u064a\u0647' (rubber mallet), with all top 10 products being rubber mallets. In contrast, close4 and close7 have several irrelevant items like claw hammers (rank 1, 4, 6, 7) and even a toy hammer (rank 9).",
+        "Google consistently provides clear and descriptive titles for its rubber mallets, often including weight and handle material, which aids user selection. close4 and close7 have some good titles but also include less specific or irrelevant ones.",
+        "All engines show 'express' delivery, and all products have 0 units_l30d_norm, so these criteria do not differentiate the engines.",
+        "Google's ranking quality is superior as it presents a variety of rubber mallets (different weights, handle types) at the top, ensuring the user sees relevant options immediately. close4 and close7's top ranks are diluted with non-rubber mallet hammers.",
+        "The presence of a toy hammer at rank 9 in close4 and close7 significantly detracts from their relevance and ranking quality for a query seeking a tool."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close4",
+          "score": "5.5"
+        },
+        {
+          "engine": "close7",
+          "score": "5.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0643\u0631\u064a\u0645 \u0627\u0633\u0627\u0633 \u0646\u0648\u062a",
+      "winner": "google",
+      "reason": [
+        "All engines demonstrate excellent relevance to the query '\u0643\u0631\u064a\u0645 \u0627\u0633\u0627\u0633 \u0646\u0648\u062a' (Note Foundation) by exclusively returning foundation products from the 'note_cosmetique' brand.",
+        "All engines show perfect brand match, with every product listed being from 'note_cosmetique'.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all products in all engines, making it a non-discriminating factor in this comparison.",
+        "Delivery desirability is consistently 'express' for all products in all engines, thus not differentiating performance.",
+        "Google's ranking quality is slightly better as it presents a wider variety of foundation types (Mattifying, Luminous Moisturizing, Detox And Protect, Invisible Perfection) within the top 10, whereas close4 and close7 have multiple duplicate 'New Era Skin Protecting Foundation' entries, which reduces the diversity and overall quality of the initial results.",
+        "Close4 and close7 exhibit identical search results and ranking for this query, indicating they might be using the same underlying search logic or data."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "7.0"
+        },
+        {
+          "engine": "close7",
+          "score": "7.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0637\u0648\u0642 \u0633\u0643\u0646 \u0643\u064a\u0631",
+      "winner": "close7",
+      "reason": [
+        "Google's results are completely irrelevant, showing pet collars instead of skin care products. The query '\u0637\u0648\u0642 \u0633\u0643\u0646 \u0643\u064a\u0631' translates to 'skin care collar' or 'skin care ring', which is likely a mistranslation or a very niche product. However, interpreting '\u0633\u0643\u0646 \u0643\u064a\u0631' as 'skin care' is the most logical approach for an e-commerce search.",
+        "Close7 and Close4 both correctly interpret '\u0633\u0643\u0646 \u0643\u064a\u0631' as 'skin care' and return relevant skin care products. Their results are identical.",
+        "Close7 and Close4 both offer express delivery for all their products, which is desirable. Google's products are market delivery.",
+        "All products across all engines have a units_l30d_norm of 0, so product popularity cannot be used as a differentiator.",
+        "Given the ambiguity of '\u0637\u0648\u0642' in the query, Close7 and Close4's interpretation of focusing on '\u0633\u0643\u0646 \u0643\u064a\u0631' (skin care) is far more useful and relevant to a typical e-commerce user than Google's literal interpretation of '\u0637\u0648\u0642' as 'collar'."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "1.0"
+        },
+        {
+          "engine": "close7",
+          "score": "9.0"
+        },
+        {
+          "engine": "close4",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0639\u0644\u0627\u0642\u0629 \u0644\u0644\u062d\u0645\u0627\u0645",
+      "winner": "close7",
+      "reason": [
+        "All engines show good relevance to the query '\u0639\u0644\u0627\u0642\u0629 \u0644\u0644\u062d\u0645\u0627\u0645' (bathroom hanger/rack), with most results being various types of hangers, racks, and hooks suitable for a bathroom.",
+        "Google's results include a few items that are less specific to bathrooms (e.g., '16 Pcs Adhesive Hooks, Wall Hooks for Hanging' at rank 7, 'Bag Towel Coat Clothes Hat Over Door Hanger' at rank 4), making its relevance slightly lower than close7 and close4.",
+        "Close7 and close4 have identical results and rankings, both offering a strong selection of bathroom-specific hangers and racks from the top, including wall-mounted, corner shelves, and over-the-door options.",
+        "Brand match is not a significant differentiator as most products across all engines are from generic or lesser-known brands, and the query does not specify a brand preference.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all listed products for all engines, so this criterion does not differentiate performance.",
+        "Delivery desirability (delivery_type_tag) is consistently 'express' for all products across all engines, so this criterion does not differentiate performance.",
+        "Ranking quality is slightly better in close7 and close4 as their top results are more directly aligned with common bathroom hanger needs (e.g., 'Wall Mounted Coat Rack Heavy Duty Metal Hook', 'Black Bathroom Organization Corner Shelf With Side Hanger') compared to Google's top result which is a generic 'Stainless Steel Bathroom Towel Hanger' without much detail.",
+        "Close7 and close4 maintain a higher concentration of highly relevant bathroom-specific items within their top 5 results compared to Google, which includes a more general 'Bag Towel Coat Clothes Hat Over Door Hanger' at rank 4."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.0"
+        },
+        {
+          "engine": "close4",
+          "score": "8.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u064a\u0648\u064a\u0648 \u0628\u0644\u064a\u0632\u0646\u062c \u062a\u064a\u0645",
+      "winner": "google",
+      "reason": [
+        "The query '\u064a\u0648\u064a\u0648 \u0628\u0644\u064a\u0632\u0646\u062c \u062a\u064a\u0645' translates to 'Yoyo Blazing Team'. The Google engine completely failed to return any products related to 'Blazing Team'.",
+        "All products returned by Google are generic yoyos or yoyo accessories, with no brand match for 'Blazing Team'.",
+        "The units_l30d_norm for all products in Google's results is 0, indicating no popularity, which is a negative factor.",
+        "While Google did return yoyos (the '\u064a\u0648\u064a\u0648' part of the query), the critical '\u0628\u0644\u064a\u0632\u0646\u062c \u062a\u064a\u0645' (Blazing Team) aspect was entirely missed, making the results largely irrelevant to the specific user intent."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062c\u0644\u062f\u0629 \u0633\u0644\u064a\u0643\u0648\u0646 \u0644\u0644\u0645\u0633\u0627\u062c",
+      "winner": "google",
+      "reason": [
+        "Relevance to the query: Google is the only engine that consistently returns products that are 'silicone for massage' (\u062c\u0644\u062f\u0629 \u0633\u0644\u064a\u0643\u0648\u0646 \u0644\u0644\u0645\u0633\u0627\u062c). Close4 and Close7 primarily return electric foot callus removers and gaming chairs with massage functions, which are not what the user is looking for.",
+        "Brand match: Not a significant differentiator as most relevant products are generic or from less known brands across all engines. However, Google's results are more aligned with the product type, even if brands are not strong.",
+        "Product popularity (units_l30d_norm): All engines show 0 units_l30d_norm for the majority of their top results, making this criterion not useful for differentiation in this specific case.",
+        "Delivery desirability: All engines predominantly offer 'express' delivery, so this criterion does not differentiate them.",
+        "Ranking quality: Google's top results (ranks 1-10) are all highly relevant to the query, featuring various silicone massage tools (cups, scalp brushes, face brushes, body scrubbers). In contrast, Close4 and Close7's top 10 results are almost entirely irrelevant, with only one item (rank 6) in each engine being a 'silicone back scrubber' which is somewhat related, but still not the primary focus of the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "2.0"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        },
+        {
+          "engine": "google",
+          "score": "9.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0627\u0644\u0639\u0627\u0628 \u0627\u0637\u0641\u0627\u0644 \u0633\u0646 5 \u0633\u0646\u0648\u0627\u062a",
+      "winner": "google",
+      "reason": [
+        "Google's results are generally more relevant to the specific age range of '5 \u0633\u0646\u0648\u0627\u062a' (5 years old), with many titles explicitly mentioning 5 years old or a range that includes it prominently. Close7 and Close4 often include broader age ranges (e.g., 3-6, 4-14) where 5 is just one year within a larger span.",
+        "Google has a better variety of toy types that are suitable for a 5-year-old, including doctor kits, shooting games, bath toys, and wooden tools, which aligns well with typical developmental stages and interests at that age. Close7 and Close4 have a higher concentration of slime kits and magnetic blocks, which are relevant but less diverse.",
+        "All engines primarily offer 'express' delivery, so there's no significant differentiator in delivery desirability.",
+        "Product popularity (units_l30d_norm) is 0 for all products across all engines, so this criterion does not differentiate the engines.",
+        "Google's ranking quality appears slightly better as the top results are highly relevant and diverse for a 5-year-old, whereas Close7 and Close4's top results, while relevant, are less varied in product type."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "7.5"
+        },
+        {
+          "engine": "close4",
+          "score": "7.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "herbalife nutrition",
+      "winner": "None",
+      "reason": [
+        "All engines returned identical results for the given query.",
+        "All engines displayed products that are relevant to the 'herbalife nutrition' brand, specifically shakers, which are often associated with nutrition products.",
+        "All engines showed a perfect brand match with 'herbalife_nutrition' for all listed products.",
+        "Product popularity (units_l30d_norm) is 0 for all products across all engines, offering no differentiation.",
+        "Delivery desirability is 'market' for all products across all engines, offering no differentiation.",
+        "Ranking quality is identical across all engines as the products and their order are the same."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "5.0"
+        },
+        {
+          "engine": "close7",
+          "score": "5.0"
+        },
+        {
+          "engine": "close4",
+          "score": "5.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0630\u0627\u0643\u0631\u0647",
+      "winner": "google",
+      "reason": [
+        "Relevance: The query \"\u0645\u0630\u0627\u0643\u0631\u0647\" translates to 'negotiation' or 'discussion' in Arabic, but it can also be interpreted as 'study' or 'revision' in some contexts. All engines seem to have interpreted it as 'study' or 'studying'.",
+        "Relevance (close7 vs. close4): Both close7 and close4 return identical results, which are exclusively computer/study desks. While these are related to 'study', they are not the most direct interpretation of '\u0645\u0630\u0627\u0643\u0631\u0647' if it means 'study' in the sense of the act of studying.",
+        "Relevance (google vs. close7/close4): Google's results are slightly more diverse, including 'Study Book' (rank 6) and a product titled 'Forget the lecture as it is better to study' (rank 4), which directly uses the word 'study' in its title, making it more relevant to the interpreted meaning of the query than just desks.",
+        "Brand Match: All engines have a mix of branded and generic products. No engine stands out significantly in terms of brand match for this query.",
+        "Product Popularity: All products across all engines have a units_l30d_norm of 0, so this criterion cannot differentiate the engines.",
+        "Delivery Desirability: All products across all engines have 'express' delivery, so this criterion cannot differentiate the engines.",
+        "Ranking Quality (google): Google's inclusion of a 'Study Book' and a product with 'study' directly in the title, even if lower ranked, shows a slightly better understanding of the query's potential meaning compared to the other engines which only offer desks.",
+        "Ranking Quality (close7 vs. close4): Both close7 and close4 have identical and repetitive results, with the same products appearing multiple times at different ranks, indicating poor ranking quality and lack of diversity."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "1.0"
+        },
+        {
+          "engine": "close4",
+          "score": "1.0"
+        },
+        {
+          "engine": "google",
+          "score": "5.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0641\u0633\u0627\u062a\u064a\u0646 \u062a\u064a\u0643 \u062a\u0648",
+      "winner": "close7",
+      "reason": [
+        "All engines successfully identified '\u0641\u0633\u0627\u062a\u064a\u0646' (dresses) and the brand '\u062a\u064a\u0643 \u062a\u0648' (Take Two).",
+        "Engines 'close7' and 'close4' returned identical results, all of which are dresses from the 'Take Two' brand, demonstrating perfect brand match and high relevance.",
+        "Engine 'google' also returned all 'Take Two' brand dresses, indicating good brand match and relevance.",
+        "All products across all engines have a 'units_l30d_norm' of 0, so product popularity cannot be used as a differentiator.",
+        "All products across all engines have 'express' delivery, so delivery desirability cannot be used as a differentiator.",
+        "The ranking quality is excellent for 'close7' and 'close4' as all results are highly relevant and brand-matched. 'google' also has good ranking quality, but the specific dress styles might be slightly less varied or appealing in the top ranks compared to 'close7' and 'close4' (though this is subjective without more product detail).",
+        "Given the identical results and high quality, 'close7' and 'close4' are equally strong. 'close7' is arbitrarily chosen as the winner due to the tie."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "9.5"
+        },
+        {
+          "engine": "close4",
+          "score": "9.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0627\u0633\u0641\u0646\u062c \u062a\u0644\u0645\u064a\u0639",
+      "winner": null,
+      "reason": [],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "7.0"
+        },
+        {
+          "engine": "close7",
+          "score": "7.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0641\u0633\u0627\u062a\u064a\u0646 \u0627\u0639\u0631\u0627\u0633",
+      "winner": "google",
+      "reason": [
+        "Relevance: Google's results are significantly more relevant to '\u0641\u0633\u0627\u062a\u064a\u0646 \u0627\u0639\u0631\u0627\u0633' (wedding dresses) with titles like 'Prom Dress', 'Bridal Wedding Dress', and 'Evening Party Gown'. close7 and close4 have generic 'Party Dress' and 'Wedding Gown Underskirt' at the top, followed by multiple identical listings for children's dresses, which are less relevant to the general query for wedding dresses.",
+        "Brand Match: Google has a better variety of brands and product descriptions that align with wedding/formal wear. close7 and close4 have 'generic' brands for the top relevant items and then multiple identical listings from 'bhns' for children's dresses, which dilutes the brand match for the primary query.",
+        "Product Popularity: All engines show 'units_l30d_norm': 0 for all products, making this criterion not useful for differentiation in this specific case.",
+        "Delivery Desirability: Google exclusively features 'express' delivery, which is better than the 'market' delivery seen in the top results of close7 and close4. While close7 and close4 also have 'express' delivery, it's for the less relevant children's dresses.",
+        "Ranking Quality: Google's top results are all highly relevant to wedding/formal dresses, demonstrating better ranking quality. close7 and close4's ranking quality is poor due to the repetition of identical children's dress listings from rank 4 onwards, and the less specific relevance of their top 3 items."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "4.5"
+        },
+        {
+          "engine": "close4",
+          "score": "4.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0631\u0637\u0628 \u0645\u0627\u0626\u064a",
+      "winner": "google",
+      "reason": [
+        "Google's results are highly relevant to '\u0645\u0631\u0637\u0628 \u0645\u0627\u0626\u064a' (water moisturizer), with all top 10 products being water-based moisturizers or gels. In contrast, close4 and close7 include humidifiers, baby wipes, sunscreens, lipsticks, and hair masks, which are not direct matches for the query.",
+        "Google consistently features 'Neutrogena Hydro Boost Water Gel' products, which are very strong brand matches for '\u0645\u0631\u0637\u0628 \u0645\u0627\u0626\u064a'. close4 and close7 also have Neutrogena, but it's mixed with less relevant items and appears lower in the rankings.",
+        "Google's results show a better understanding of the user's intent, focusing on skincare moisturizers. close4 and close7 seem to interpret '\u0645\u0627\u0626\u064a' (watery/water-based) too broadly, leading to a diverse but less precise set of products.",
+        "All engines have a delivery_type_tag of 'express' for their top results, so there's no significant differentiation in delivery desirability.",
+        "The ranking quality in Google is superior as the most relevant items (water gel moisturizers) are consistently at the top. close4 and close7 place a humidifier at rank 1, which is a poor ranking for this query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "4.5"
+        },
+        {
+          "engine": "close7",
+          "score": "4.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "baby car seat screen cover",
+      "winner": "google",
+      "reason": [
+        "Relevance to the query: Google is the only engine that consistently returns 'screen covers' or 'sun shades' for baby car seats. Both close4 and close7 primarily return full car seats or car seat liners, which are not what the user is looking for.",
+        "Ranking quality: Google's top results (ranks 1-3) are highly relevant to 'baby car seat screen cover', offering sun shades and muslin covers. In contrast, close4 and close7's top 10 results are almost entirely irrelevant to the 'screen cover' aspect of the query.",
+        "Product popularity: All engines show 0 units_l30d_norm for their products, so this criterion does not differentiate them.",
+        "Delivery desirability: All engines primarily offer 'express' or 'market' delivery, with no significant difference in desirability across the engines for the relevant products.",
+        "Brand match: Google's results include brands that are more aligned with accessories like 'Helper' and 'syosi' for screen covers, whereas close4 and close7 focus on car seat brands like 'jovikids' and 'baybee' which are not relevant to the 'screen cover' part of the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "3.5"
+        },
+        {
+          "engine": "close7",
+          "score": "3.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "extra whitening body lotion",
+      "winner": "google",
+      "reason": [
+        "Google consistently provides products that are more directly relevant to 'extra whitening body lotion' in their titles, whereas close4 and close7 have several products that are just 'whitening body lotion' or even 'peeling oil' or 'baby cream'.",
+        "Google's results at ranks 2, 5, and 10 explicitly mention 'Extra Whitening' in the title, directly matching the query's 'extra' modifier, which is largely missing from close4 and close7's top results.",
+        "Close4 and close7 include an 'Extra Soft Baby Cream' at rank 2, which is completely irrelevant to the query, significantly impacting their relevance score.",
+        "Close4 and close7 also include 'Extra Strong Yellow Peeling Oil' at rank 6 and 'ACM Skin Brightening Liquid' at rank 7, which are not body lotions, further reducing their relevance.",
+        "All engines have a units_l30d_norm of 0 for all products, so product popularity does not differentiate them.",
+        "All engines primarily offer 'express' delivery, so delivery desirability does not differentiate them.",
+        "Google's ranking quality is superior due to its higher concentration of highly relevant products at the top of the results, compared to the mixed relevance in close4 and close7."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "alize puffy",
+      "winner": "google",
+      "reason": [
+        "All engines show high relevance and brand match, as all results are 'Alize Puffy' products.",
+        "All products across all engines have a units_l30d_norm of 0, so product popularity cannot be used as a differentiator.",
+        "Google's top 2 results both have 'express' delivery, which is better than close4 and close7's second result having 'market' delivery.",
+        "Google's results consistently feature 'express' delivery throughout the top 10, whereas close4 and close7 have one 'market' delivery item at rank 2.",
+        "The ranking quality is slightly better in Google due to the consistent 'express' delivery type in the higher ranks compared to close4 and close7."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "7.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "t shirt set",
+      "winner": "google",
+      "reason": [
+        "Google's results are consistently more relevant to 't shirt set', featuring actual t-shirt sets, whereas close4 and close7 frequently include 'shirt' sets (e.g., 'Waistcoat, Shirt, Shorts & Bow Tie Set') which are not t-shirts.",
+        "Google has a better variety of 't shirt set' types (men's, boys', women's, pyjama sets) compared to close4 and close7 which are heavily skewed towards boys' formal shirt sets in their top results.",
+        "Google's ranking quality is superior as its top results are directly 't shirt set' products, while close4 and close7's top 4 results are all 'shirt' sets, not 't shirt' sets, indicating a significant ranking quality issue for the given query.",
+        "All engines primarily offer 'express' delivery, so there's no significant differentiation based on delivery desirability.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all displayed results for all engines, thus it does not serve as a differentiator in this comparison."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "5.5"
+        },
+        {
+          "engine": "close7",
+          "score": "5.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0627\u0643\u064a\u0646\u0629 \u0632\u0628\u0627\u062f\u064a",
+      "winner": "google",
+      "reason": [
+        "Google's top results (ranks 1, 2, 4, 5, 6, 7, 8, 9) are highly relevant 'yogurt makers', directly matching the query '\u0645\u0627\u0643\u064a\u0646\u0629 \u0632\u0628\u0627\u062f\u064a'. In contrast, close4 and close7 have a less relevant 'Automatic Bread Maker Machine' at rank 2 and several 'Ice Cream Maker' products from rank 6 onwards.",
+        "Google has a higher concentration of relevant 'yogurt maker' products in its top 5 results compared to close4 and close7, which both include a bread maker at rank 2.",
+        "All engines suffer from a lack of product popularity data (units_l30d_norm are all 0), making this criterion non-discriminatory.",
+        "Delivery desirability is generally good across all engines for the relevant products, with most being 'express'. However, close4 and close7 introduce 'market' delivery types earlier (rank 7) for relevant items compared to Google, which maintains 'express' for most of its top relevant results.",
+        "Google's ranking quality is superior as it prioritizes actual yogurt makers at the top, whereas close4 and close7 quickly introduce less relevant items like bread makers and ice cream makers within their top ranks."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "google",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "laptops low price apple",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that returns actual 'laptops' from the 'apple' brand, directly addressing the core of the query. Close7 and Close4 return only accessories or adapters, completely missing the primary product type.",
+        "Google successfully identifies 'Apple' as a brand and returns products from that brand. Close7 and Close4 primarily return 'generic' branded items or items from 'ottocast', which are not Apple laptops.",
+        "Google's results consistently feature 'express' delivery, which is a desirable delivery type. Close7 and Close4 only offer 'market' delivery, which is less desirable.",
+        "Google's results are all relevant Apple laptops, including renewed and new models, which aligns with the 'low price' aspect of the query by offering various price points within the Apple laptop category. Close7 and Close4's results are irrelevant accessories.",
+        "The ranking quality in Google is excellent as all results are highly relevant to the query. Close7 and Close4's ranking quality is poor due to the complete irrelevance of their top results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "1.0"
+        },
+        {
+          "engine": "close4",
+          "score": "1.0"
+        },
+        {
+          "engine": "google",
+          "score": "9.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0632\u064a\u0648\u062a \u0627\u0644\u062d\u0648\u0627\u062c",
+      "winner": "close4",
+      "reason": [
+        "All engines show good relevance to the query '\u0632\u064a\u0648\u062a \u0627\u0644\u062d\u0648\u0627\u062c' (Al Hawaj oils) by primarily listing oils from 'elhawag' or 'alhawwaj' brands.",
+        "Google's results include non-matching brands like 'taha', 'beauty_voc', and 'generic' at ranks 8, 9, and 10, which reduces its brand match score compared to close4 and close7.",
+        "Close4 and close7 consistently feature 'elhawag' or 'alhawwaj' brand products throughout their top 10 results, indicating a stronger brand match.",
+        "All products across all engines have 'units_l30d_norm': 0, so product popularity does not differentiate the engines in this specific case.",
+        "Google's top 7 results are 'express' delivery, but then it includes non-brand items. Close4 and close7 maintain 'express' delivery for their top 6 brand-matched items, then switch to 'market' for the remaining brand-matched items. This is a slight downgrade in delivery desirability for the latter items in close4 and close7, but they are still relevant brand items.",
+        "Close4 and close7 have identical results and ranking for this query, making them equally strong.",
+        "The ranking quality of close4 and close7 is superior as they prioritize brand-matched products, even if some have slightly lower delivery desirability, over non-brand products with the same delivery desirability as seen in Google."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0643\u0646\u0628\u0629 \u0646\u0641\u0631",
+      "winner": "google",
+      "reason": [
+        "Relevance to the query: The query '\u0643\u0646\u0628\u0629 \u0646\u0641\u0631' translates to 'single sofa' or 'single couch'. Google's results, while not perfect, are closer to the intent by offering blankets that could be used on a sofa, and explicitly mentioning 'sofa' in some titles. Close4 and Close7 primarily return beds and bedding, which are not '\u0643\u0646\u0628\u0629' (sofa/couch).",
+        "Brand match: All engines show a mix of generic and specific brands. No engine stands out significantly in terms of brand matching for this query.",
+        "Product popularity: All engines show 'units_l30d_norm' as 0 for all products, making it impossible to compare based on this criterion.",
+        "Delivery desirability: All engines exclusively offer 'express' delivery, so there is no differentiation here.",
+        "Ranking quality: Google's top results, despite being blankets, are more relevant to a 'sofa' than the beds presented by Close4 and Close7. Close4 and Close7's top results are beds, which are completely off-topic. Google's repetition of the same product multiple times at the top is a negative for ranking quality, but the initial relevance is higher."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "2.5"
+        },
+        {
+          "engine": "close7",
+          "score": "2.5"
+        },
+        {
+          "engine": "google",
+          "score": "6.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "soundcore select 4 go",
+      "winner": "google",
+      "reason": [
+        "All engines show excellent relevance, with the top 6-9 results consistently being the 'Soundcore Select 4 Go' speaker in various colors.",
+        "All engines demonstrate strong brand matching, with 'soundcore' being the brand for almost all relevant products.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all relevant products in all engines, so this criterion does not differentiate them.",
+        "Delivery desirability is predominantly 'express' for the core product across all engines, indicating good delivery options. Google has one 'market' delivery type at rank 10, while close4 and close7 also have one 'market' delivery type at rank 9.",
+        "Google's ranking quality is slightly better as it places the generic accessory (Silicone Case) at rank 7 and a 'market' delivery item at rank 10. Close4 and close7 place the 'market' delivery item at rank 9 and the generic accessory at rank 10, which is a slightly less optimal ordering for the core product search."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.0"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062c\u0632\u0645 \u0631\u062c\u0627\u0644\u064a 46",
+      "winner": "google",
+      "reason": [
+        "Relevance: Google is significantly more relevant, with multiple products explicitly mentioning 'size 46' or '46 EU size' and 'men's shoes'. close7 and close4 have only one product (rank 9 and 10) that mentions a size, and it's '43 EUR' or '44 EUR', not 46. Many products in close7 and close4 are also not specifically for men (e.g., 'Big Size Slippers For Men and Women', 'LED Light Up Kids Shoes', 'Apple Watch band').",
+        "Brand Match: Google has a better brand match with 'converse' at rank 10, although it's a market delivery. close7 and close4 have 'adidas' at rank 1 and 6, but the relevance to the size 46 query is missing.",
+        "Product Popularity: All engines show 0 units_l30d_norm for all products, making this criterion not useful for differentiation.",
+        "Delivery Desirability: All engines primarily feature 'express' delivery, so there's no significant difference here.",
+        "Ranking Quality: Google's top results are more aligned with the query's size requirement, even if some are generic brands. close7 and close4's top results are less relevant to the specific size requested, and include irrelevant items like an Apple Watch band and kids' shoes."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "4.5"
+        },
+        {
+          "engine": "close4",
+          "score": "4.5"
+        },
+        {
+          "engine": "google",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0627\u0646\u062a\u0631\u0641\u0648\u0646",
+      "winner": "google",
+      "reason": [
+        "Google's results are more consistently relevant to '\u0627\u0646\u062a\u0631\u0641\u0648\u0646' (intercom) throughout the top 10, with fewer irrelevant items compared to close4 and close7.",
+        "Google has a higher concentration of actual intercom systems and related components, whereas close4 and close7 introduce items like 'Interview GO Handheld Mic Adapter' and 'Helmet Bluetooth Headset' which are less directly related to a typical intercom search.",
+        "All engines show similar brand representation (Commax, Farfisa) and delivery desirability for the top items, but Google maintains better relevance further down the list.",
+        "The 'generic' items at the bottom of Google's results (cable, waist clips) are still more related to intercoms than the 'Interview GO' or 'Helmet Bluetooth Headset' found in close4 and close7 at higher ranks.",
+        "No engine shows significant product popularity (units_l30d_norm) for any items, so this criterion does not differentiate them."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "6.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u064a\u062f \u0633\u0648\u0646\u064a 4 \u0627\u062d\u062a\u0631\u0627\u0641\u064a\u0647 \u0646\u064a\u0643\u0648\u0646",
+      "winner": "google",
+      "reason": [
+        "Relevance: All engines struggled with the '\u0646\u064a\u0643\u0648\u0646' (Nikon) part of the query, which seems to be a distractor. However, 'google' placed a relevant PS4 controller (rank 4) higher than 'close7' and 'close4' which had multiple 'Hootoo' branded controllers at the top.",
+        "Brand Match: 'google' had more genuine Sony Dualshock controllers (ranks 6, 7, 8, 10) within its top 10 compared to 'close7' and 'close4' which only had two (ranks 3, 8).",
+        "Product Popularity: All engines showed products with `units_l30d_norm` of 0, making this criterion not a differentiator.",
+        "Delivery Desirability: All relevant products across all engines had 'express' delivery, so this criterion did not differentiate the engines.",
+        "Ranking Quality: 'google' had a better mix of relevant Sony controllers and third-party controllers, and while it also included some camera accessories due to 'Nikon', its placement of actual PS4 controllers was generally better than 'close7' and 'close4' which heavily featured the 'Hootoo' brand at the top.",
+        "Irrelevant Items: 'close7' and 'close4' included several camera-related items (ranks 4, 5, 6, 9, 10) which are completely irrelevant to a 'Sony PS4 professional controller' query, even with the 'Nikon' distractor. 'google' also had some irrelevant camera items (rank 1) but its core PS4 controller results were stronger."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "6.5"
+        },
+        {
+          "engine": "google",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0627\u063a\u0637\u064a\u0629 \u0645\u062e\u062f\u0627\u062a \u0646\u0648\u0645",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that consistently returns 'pillow covers' (\u0627\u063a\u0637\u064a\u0629 \u0645\u062e\u062f\u0627\u062a) as the primary product, directly matching the user's query. Close7 and Close4 primarily return 'sleeping packs' or 'bedspreads' which include pillows or pillowcases but are not the direct search intent.",
+        "Google's top results (ranks 1-6) are all highly relevant pillow covers from the 'rose' brand, offering various colors, which is a good user experience for browsing options for the core query. Close7 and Close4's top 4 results are all 'Premium Sleeping Packs' which are mattress toppers with pillows, not just pillow covers.",
+        "While all engines show products with 'express' delivery, Google's results are more focused on the specific item requested, making the delivery desirability more impactful for the correct product.",
+        "Google's ranking quality is superior as it prioritizes direct matches to the query. Close7 and Close4's initial results are less relevant, pushing actual pillow covers (if any exist in their results) much further down or not showing them at all.",
+        "None of the products across any engine show significant popularity (units_l30d_norm: 0), so this criterion does not differentiate the engines."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062d\u0630\u0627\u0621 \u0646\u0633\u0627\u0626\u064a \u0627\u0633\u0648\u062f \u0645\u0631\u064a\u062d",
+      "winner": "google",
+      "reason": [
+        "Google's results are highly relevant to the query '\u062d\u0630\u0627\u0621 \u0646\u0633\u0627\u0626\u064a \u0627\u0633\u0648\u062f \u0645\u0631\u064a\u062d' (comfortable black women's shoes), consistently showing various types of women's shoes that are black and described as comfortable. In contrast, close4 and close7 show a majority of irrelevant items like water shoes, face covers, and ankle braces.",
+        "Google's results maintain a strong brand match, with all products being women's shoes, black, and often explicitly mentioning comfort. close4 and close7 fail significantly in brand match, presenting items that are not shoes, not specifically for women, or not black.",
+        "While product popularity (units_l30d_norm) is 0 for all products across all engines, Google's results are still superior due to their high relevance and brand match.",
+        "All engines predominantly offer 'express' delivery, so there is no significant differentiation based on delivery desirability.",
+        "Google demonstrates excellent ranking quality by placing highly relevant and appropriate products at the top. close4 and close7's ranking quality is very poor, as their top results are completely unrelated to the user's query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.0"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "samsung ultra 1600",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that returns actual Samsung devices, specifically tablets, which aligns better with 'samsung ultra' than phone cases.",
+        "Google's results consistently feature the 'samsung' brand for the top 8 products, whereas close7 and close4 only have third-party brands for phone cases.",
+        "Google's results, while not perfectly matching '1600', at least offer a range of 'Galaxy Tab S11 Ultra' products, suggesting a search for a high-end Samsung device. Close7 and close4 completely miss the '1600' and focus on phone cases.",
+        "All engines show products with 'express' delivery, so there's no significant differentiation based on delivery desirability.",
+        "Google's ranking quality is superior as it prioritizes relevant Samsung tablets, even if the '1600' is not directly matched. Close7 and close4's top results are irrelevant phone cases."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "pen spinning",
+      "winner": "google",
+      "reason": [
+        "Relevance: All engines generally show relevant 'spinning pen' products. However, close7 and close4 include a 'SUPER MARIO - Yoshi - 2D Spinning Topper Pen' (rank 6) and 'Heart Shaped Pens' (rank 8) which are less relevant to the core 'pen spinning' activity compared to Google's results.",
+        "Delivery Desirability: Google consistently offers 'express' delivery for all its top 10 results, which is the most desirable delivery type among the options. Close7 and close4 have 'market' delivery for several items in their top 10 (ranks 5, 6, 7, 8, 9, 10), making Google superior in this aspect.",
+        "Ranking Quality: Google's results appear to be slightly better ranked in terms of relevance and consistency. While the top 4 results are identical across close7, google, and close4, Google maintains higher relevance and better delivery types further down its list.",
+        "Product Popularity: All engines show 'units_l30d_norm' as 0 for all products, so this criterion does not differentiate the engines."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "7.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        },
+        {
+          "engine": "close4",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "glasses color.",
+      "winner": "google",
+      "reason": [
+        "Relevance: Google is the only engine that correctly interprets 'glasses color' as referring to eyewear, offering products like 'Color Changing Anti Blue Light Presbyopia Glasses' and 'Blue Light Blocking Sunglasses Round Color Changing Eyewear'. Close7 and Close4 completely miss the mark, returning items like 'Glassdoor Showcase Refrigerator' and 'Glass Straws'.",
+        "Brand Match: Google's results, while containing some 'generic' brands, are all relevant to the query. Close7 and Close4 show no brand match for the intended product category.",
+        "Product Popularity: All engines show 0 units_l30d_norm for their respective products, making this criterion not a differentiator in this specific comparison.",
+        "Delivery Desirability: All relevant products from Google, and all irrelevant products from Close7 and Close4, have 'express' delivery, so this criterion does not differentiate the engines.",
+        "Ranking Quality: Google's top results are highly relevant to the query, featuring color-changing or colored glasses. Close7 and Close4's rankings are irrelevant as their entire product sets are irrelevant to the query.",
+        "Overall: Google clearly understands the user's intent for 'glasses color' to mean eyewear with color-related features (e.g., color-changing, transparent color). Close7 and Close4 interpret 'glasses' as glass material and 'color' as a descriptor for other products, leading to completely irrelevant results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close7",
+          "score": "1.0"
+        },
+        {
+          "engine": "close4",
+          "score": "1.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0635\u064a\u0646\u064a\u0629 \u0633\u0631\u064a\u0631",
+      "winner": "google",
+      "reason": [
+        "Relevance: Google's results are consistently relevant to '\u0635\u064a\u0646\u064a\u0629 \u0633\u0631\u064a\u0631' (bed tray), with all top 10 items being bed trays or closely related. Close4 and Close7 include several irrelevant items like cat litter boxes and general side tables.",
+        "Ranking Quality: Google prioritizes actual bed trays higher in the results. Close4 and Close7 have irrelevant items appearing as high as rank 1 (Coffee Wood Serving Tray, which is a general serving tray, not specifically for bed) and rank 2 (C Shaped End Table, which is a side table, not a bed tray).",
+        "Product Variety (within relevance): Google offers a good variety of bed trays (different materials, colors, folding options) without straying from the core query. Close4 and Close7 introduce too many non-bed tray items.",
+        "Brand Match & Popularity: All engines show low popularity (units_l30d_norm: 0) for most items, so this criterion doesn't differentiate them significantly. Brand match is not a primary differentiator here as the query is generic.",
+        "Delivery Desirability: All engines predominantly offer 'express' delivery, so this criterion does not differentiate them."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "5.5"
+        },
+        {
+          "engine": "close7",
+          "score": "5.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0644\u0645\u0628\u0629 \u0644\u064a\u062f \u0644\u0637\u0634",
+      "winner": "google",
+      "reason": [
+        "Google provides a wider variety of products relevant to '\u0644\u0645\u0628\u0629 \u0644\u064a\u062f \u0644\u0637\u0634' (LED flush mount lamp), including several panel and spotlight options, whereas Close7 and Close4 only return a single, albeit relevant, product.",
+        "Google's results, while not perfect, offer more options that could be considered 'flush mount' (\u0644\u0637\u0634) compared to the single, generic 'LED ceiling bulbs' from Close7 and Close4.",
+        "All engines show products with 'express' delivery and 'units_l30d_norm' of 0, so there's no differentiation based on these criteria.",
+        "Google's ranking quality is better due to the diversity of relevant products presented, even if some are less ideal matches. Close7 and Close4 only offer one product, making ranking quality difficult to assess comparatively beyond its singular relevance."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "4.0"
+        },
+        {
+          "engine": "close4",
+          "score": "4.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0632\u064a\u0646\u0647 \u0633\u064a\u0627\u0631\u0647 \u0639\u0631\u0648\u0633\u0647",
+      "winner": "close7",
+      "reason": [
+        "Google's top results are largely irrelevant cake toppers and general 'Bride to Be' items, whereas close7 and close4 immediately present relevant 'wedding car decorations'.",
+        "close7 and close4 have a higher concentration of direct wedding car decoration items within their top 10 results compared to Google, which includes several generic floral foam items.",
+        "While all engines have low product popularity (units_l30d_norm: 0) for these specific items, close7 and close4 maintain better relevance throughout their results.",
+        "Delivery desirability is similar across all engines, with a mix of 'express' and 'market' for Google, and predominantly 'market' for close7 and close4. However, the relevance of the 'market' items in close7 and close4 is higher.",
+        "close7 and close4 are identical in their results and ranking for this query, both outperforming Google significantly in terms of relevance to '\u0632\u064a\u0646\u0647 \u0633\u064a\u0627\u0631\u0647 \u0639\u0631\u0648\u0633\u0647' (wedding car decoration)."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "casque apple",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that correctly interprets 'casque' as 'headphones/earbuds' and returns relevant products. Close4 and Close7 primarily return iPhones and iPads.",
+        "All products in Google's results are from the 'apple' brand, aligning perfectly with the query. Close4 and Close7 also feature Apple products, but they are irrelevant to the query.",
+        "Google's results consistently offer 'express' delivery for most relevant items, which is desirable. Close4 and Close7 also have 'express' delivery for their irrelevant products.",
+        "Google's ranking quality is excellent, with various models of AirPods and EarPods appearing at the top. Close4 and Close7's ranking is poor due to the irrelevance of their top results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0633\u0628\u064a\u062f\u0648 \u0646\u0638\u0627\u0631\u0627\u062a \u0633\u0628\u0627\u062d\u0629 \u0646\u0633\u0627\u0621",
+      "winner": "google",
+      "reason": [
+        "Relevance to the query: Google is significantly more relevant as it directly returns 'Speedo' brand swimming goggles for women, which is explicitly requested in the query. close4 and close7 return generic swimming goggles, many of which are for kids or unisex, and none are Speedo brand.",
+        "Brand match: Google excels here by returning multiple Speedo brand products. close4 and close7 completely miss the 'Speedo' brand match.",
+        "Product popularity: All engines show 0 units_l30d_norm for most products, making this criterion not a differentiator in this specific case.",
+        "Delivery desirability: Google has a mix of express and market delivery, with one express at rank 1. close4 and close7 also have a mix, with express delivery appearing from rank 2 onwards. This criterion is not a strong differentiator, but Google's top result having express delivery is a slight advantage.",
+        "Ranking quality: Google's ranking is superior because it prioritizes Speedo brand women's swimming goggles, directly addressing the query. The top result is a Speedo cap, which is not a goggle, but the subsequent results are highly relevant Speedo goggles. close4 and close7's rankings are poor as they do not feature the requested brand and many products are for children or are generic."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "3.5"
+        },
+        {
+          "engine": "close7",
+          "score": "3.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0639\u0631\u0628\u064a\u0647 \u062d\u0645\u0627\u0645",
+      "winner": "google",
+      "reason": [
+        "The query '\u0639\u0631\u0628\u064a\u0647 \u062d\u0645\u0627\u0645' translates to 'bathroom cart' or 'bathroom trolley'. Google's results are significantly more relevant, with almost all top 10 products being various types of bathroom carts/trolleys.",
+        "Close4 and Close7 both have a product at rank 7 and 8 that mentions 'Arabic Chair' which is a direct translation of '\u0639\u0631\u0628\u064a\u0647' in some contexts, but not in the context of '\u062d\u0645\u0627\u0645' (bathroom). This indicates a less sophisticated understanding of the query's intent compared to Google.",
+        "Google's top results consistently feature 'Slim Storage Cart', 'Rolling Storage Cart', and 'Bathroom Organizer' which are direct matches for the user's likely intent.",
+        "All engines show similar delivery desirability (all 'express') and product popularity (all '0 units_l30d_norm'), so these criteria do not differentiate the engines.",
+        "Google's ranking quality is superior because its top-ranked items are highly relevant bathroom carts, whereas Close4 and Close7 include less relevant items like toilet seat stoppers and plungers at higher ranks."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "4.5"
+        },
+        {
+          "engine": "close7",
+          "score": "4.5"
+        },
+        {
+          "engine": "google",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0646\u0638\u0641 \u0648\u0645\u0644\u0645\u0639 \u0628\u0627\u0631\u0643\u064a\u0647",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that correctly interprets the query '\u0645\u0646\u0638\u0641 \u0648\u0645\u0644\u0645\u0639 \u0628\u0627\u0631\u0643\u064a\u0647' (parquet cleaner and polisher) and returns relevant products. Close7 and Close4 completely fail to provide any relevant results.",
+        "Google's top results (ranks 1-4) are highly relevant, featuring products specifically for hardwood or wood floors, which is a direct match for '\u0628\u0627\u0631\u0643\u064a\u0647' (parquet). In contrast, Close7 and Close4's top results are for car shampoo, metal polish, and leather cleaner.",
+        "While product popularity (units_l30d_norm) is 0 for all relevant products across all engines, Google's results are still superior due to their high relevance.",
+        "Delivery desirability is mostly 'express' across all engines for their top results, so this criterion doesn't differentiate much between the engines for the initial ranks. However, Google does have some 'market' delivery options further down, but its initial relevance outweighs this.",
+        "Ranking quality is excellent for Google, with highly relevant products appearing at the top. Close7 and Close4's ranking quality is abysmal as their top 10 results are entirely irrelevant to the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "2.0"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        },
+        {
+          "engine": "google",
+          "score": "9.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0647\u062f\u0627\u064a\u0627 \u062d\u062c",
+      "winner": "google",
+      "reason": [
+        "Google's results are significantly more diverse and directly relevant to 'Hajj gifts' (\u0647\u062f\u0627\u064a\u0627 \u062d\u062c) compared to close4 and close7, which are dominated by prayer blankets.",
+        "Google offers a wider variety of gift-appropriate items such as rosaries, Hajj care kits, and prayer rug sets, whereas close4 and close7 primarily show variations of the same prayer blanket.",
+        "While all engines have products with 0 units_l30d_norm, Google's product titles are more specific to Hajj and gifting, aligning better with the user's intent.",
+        "Google's delivery types are consistently 'express' for the top results, matching close4 and close7 for their top (less relevant) results, but Google's overall product offering is superior.",
+        "The ranking quality in Google is better as it presents a broader range of potential Hajj gifts upfront, unlike close4 and close7 which show seven identical prayer blankets before introducing other gift ideas."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "5.5"
+        },
+        {
+          "engine": "close7",
+          "score": "5.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0643\u0627\u0628\u0644 \u0645\u0643\u0631\u0648",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that correctly interprets '\u0643\u0627\u0628\u0644 \u0645\u0643\u0631\u0648' (micro cable) and returns relevant micro USB cables. The other engines (close7 and close4) return a wide variety of cables, none of which are micro USB.",
+        "The top results for close7 and close4 are HDMI cables, power strips, and USB-C to Lightning cables, which are completely irrelevant to the query 'micro cable'.",
+        "Google's results consistently feature 'Micro USB' in the title, indicating strong relevance to the user's intent.",
+        "All engines show products with 0 units_l30d_norm, so product popularity cannot be a distinguishing factor in this case.",
+        "All engines predominantly offer 'express' delivery, so delivery desirability is not a differentiating factor here.",
+        "The ranking quality of Google is superior because its top results are highly relevant, whereas close7 and close4's top results are completely off-topic."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        },
+        {
+          "engine": "google",
+          "score": "9.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "ed hardy bag",
+      "winner": "google",
+      "reason": [
+        "All engines returned highly relevant products, with the top two results being 'bags' and the third being a 'wallet', which is a closely related accessory.",
+        "All engines demonstrated perfect brand match, with every product explicitly being 'ED HARDY'.",
+        "Product popularity (units_l30d_norm) was uniformly 0 across all products in all engines, thus not differentiating performance.",
+        "Delivery desirability was consistently 'market' for all products in all engines, thus not differentiating performance.",
+        "The ranking quality is identical across all three engines. The top two results are bags, which is ideal for the query 'ed hardy bag'. The third result is a wallet, which is acceptable but less ideal than a bag. Since all engines present the same products in the same order, there is no difference in ranking quality between them.",
+        "While all engines perform identically based on the provided data, Google is arbitrarily chosen as the winner due to the lack of differentiation."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "7.5"
+        },
+        {
+          "engine": "close4",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0645\u0634\u0627\u064a\u0629 \u0627\u0637\u0641\u0627\u0644 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629",
+      "winner": "google",
+      "reason": [
+        "Google's results are generally more relevant to '\u0645\u0634\u0627\u064a\u0629 \u0627\u0637\u0641\u0627\u0644 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629' (electric baby walker) than close7 and close4, which quickly devolve into unrelated items like tablet holders and cup holders.",
+        "Google has a higher concentration of actual baby walkers, even if not all are explicitly 'electric', whereas close7 and close4 have only a few relevant items at the top before becoming completely irrelevant.",
+        "The top result for close7 and close4 is an 'Electric Baby Walker', which is highly relevant, but the subsequent results quickly lose relevance, unlike Google which maintains a higher level of relevance for more items.",
+        "None of the engines show strong product popularity (units_l30d_norm is 0 for all products across all engines).",
+        "All relevant products across all engines have 'express' delivery, so delivery desirability does not differentiate the engines significantly for relevant items.",
+        "Google's ranking quality is better because it consistently provides baby walkers, even if some are not electric, while close7 and close4 quickly introduce completely irrelevant items, indicating poor ranking quality after the first few results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "4.0"
+        },
+        {
+          "engine": "close4",
+          "score": "4.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "boxer shorts",
+      "winner": "close7",
+      "reason": [
+        "Relevance: All engines generally return relevant products (boxer briefs/shorts). Google has a few items that are less specific to 'boxer shorts' (e.g., 'Tummy Control Boxer Briefs', 'sports pants men's boxer pants'). Close7 and Close4 are more consistently on-topic.",
+        "Brand Match: Close7 and Close4 feature 'calvin_klein_performance' which is a well-known brand for underwear, appearing at rank 1 and 7. Google's top brands ('roaiss', 'zeemey', 'infino', 'xyxx') are less recognized.",
+        "Product Popularity: All engines show units_l30d_norm as 0 for all products, making this criterion non-differentiating.",
+        "Delivery Desirability: All engines exclusively offer 'express' delivery, making this criterion non-differentiating.",
+        "Ranking Quality: Close7 and Close4 prioritize a known brand ('calvin_klein_performance') at the top, which is a strong signal for quality ranking. Google's top results are from less known brands and include some items that are more 'boxer briefs' than 'boxer shorts' (the query). Close7 and Close4 also have a good mix of different sizes for the same product, which is useful for a user, though it does lead to some repetition.",
+        "Repetition: Close7 and Close4 show significant repetition of the same product (infino 5-pack boxer briefs) across different sizes, which clutters the results. Google has less repetition, but its overall relevance and brand match are weaker."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.0"
+        },
+        {
+          "engine": "close4",
+          "score": "8.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "benetint",
+      "winner": "close7",
+      "reason": [
+        "Relevance: 'close7' and 'close4' are superior in relevance, consistently returning products directly matching 'Benetint' from the correct brand 'benefit_cosmetics' or closely related 'bene_fit'. 'google' includes several irrelevant 'Bene Tint Lip Glossy Pink' products from 'u_freshs' and 'rose_berry' which are not the original Benetint.",
+        "Brand Match: 'close7' and 'close4' excel in brand match, with the top 5 results being from 'benefit_cosmetics' and subsequent results from 'bene_fit', which is a very close match. 'google' has a mix of brands, with 'u_freshs' and 'rose_berry' appearing prominently, diluting the brand match for the query.",
+        "Product Popularity: All engines show 'units_l30d_norm' as 0 for all products, so this criterion does not differentiate the engines.",
+        "Delivery Desirability: 'close7' and 'close4' have their top 5 results with 'express' delivery, which is desirable. 'google' also has 'express' delivery for its top results. However, 'close7' and 'close4' maintain a higher quality of relevant products with 'express' delivery at the top.",
+        "Ranking Quality: 'close7' and 'close4' demonstrate excellent ranking quality by placing the most relevant and brand-matched 'Benetint' products from 'benefit_cosmetics' at the top. 'google's ranking is weaker due to the inclusion of less relevant products from other brands in its top results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "9.0"
+        },
+        {
+          "engine": "close4",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0646\u0639\u064a\u0645 \u0627\u0644\u0632\u0639\u0641\u0631\u0627\u0646",
+      "winner": "close7",
+      "reason": [
+        "close7 and close4 are identical in their top 8 results, both showing high relevance to the query '\u0646\u0639\u064a\u0645 \u0627\u0644\u0632\u0639\u0641\u0631\u0627\u0646' by featuring 'Naeem Al Saffron' products prominently.",
+        "google's top result, 'AL HARAMAIN MANEGE BLANCHE SPRAY', is irrelevant to the query, significantly impacting its overall relevance score compared to close7 and close4.",
+        "All engines primarily feature products from the 'mahabbah' brand for 'Naeem Al Saffron', indicating a good brand match for the relevant products.",
+        "Product popularity (units_l30d_norm) is 0 for all products across all engines, so this criterion does not differentiate the engines.",
+        "Delivery desirability is consistently 'market' for all relevant products across all engines, except for google's irrelevant top result which has 'express'. This doesn't give google an advantage for relevant products.",
+        "close7 and close4 demonstrate better ranking quality by placing highly relevant 'Naeem Al Saffron' products at rank 1, whereas google places an irrelevant product at rank 1."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "7.5"
+        },
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close4",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0639\u0644\u0628 \u0632\u062c\u0627\u062c \u0644\u062d\u0641\u0638 \u0627\u0644\u0637\u0639\u0627\u0645",
+      "winner": "google",
+      "reason": [
+        "Google's results are consistently relevant, with all top 10 products being glass food containers, directly matching the query '\u0639\u0644\u0628 \u0632\u062c\u0627\u062c \u0644\u062d\u0641\u0638 \u0627\u0644\u0637\u0639\u0627\u0645' (glass containers for food storage).",
+        "Close7 and Close4 both include a plastic food container at rank 5, which is a direct mismatch to the 'glass' (\u0632\u062c\u0627\u062c) part of the query, making Google's relevance superior.",
+        "Google offers a slightly better variety of brands (noon_east, desino, anmi) within the top 10, whereas Close7 and Close4 are heavily dominated by 'noon_east' with only two other brands appearing.",
+        "All engines primarily feature products with 'express' delivery, so there's no significant differentiation in delivery desirability.",
+        "None of the products across any engine have recorded sales (units_l30d_norm: 0), so product popularity cannot be used as a differentiator in this specific evaluation.",
+        "Google's ranking quality is slightly better as it avoids the irrelevant plastic product found in Close7 and Close4, and introduces a new relevant brand (anmi) at rank 10, compared to Close7 and Close4 which repeat the 'desino' brand at rank 10 after already showing it."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "7.0"
+        },
+        {
+          "engine": "close4",
+          "score": "7.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "li-ion battery",
+      "winner": "google",
+      "reason": [
+        "Google's results are highly relevant to the query 'li-ion battery', offering various types and sizes of Li-ion batteries directly. In contrast, close7 and close4 predominantly show power tools that *contain* Li-ion batteries, rather than the batteries themselves, making them less directly relevant.",
+        "Google's results consistently feature 'Li-ion battery' or 'Lithium ion battery' prominently in the titles, directly matching the user's intent. close7 and close4 often bury the 'Li-ion battery' mention within descriptions of power tools.",
+        "All engines show products with 0 units_l30d_norm, so product popularity cannot be a differentiating factor in this evaluation.",
+        "All engines exclusively offer 'express' delivery, so delivery desirability is not a differentiating factor.",
+        "Google's ranking quality is superior as its top results are direct matches for 'li-ion battery', whereas close7 and close4's top results are power tools, which are less specific to the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.0"
+        },
+        {
+          "engine": "close7",
+          "score": "3.0"
+        },
+        {
+          "engine": "close4",
+          "score": "3.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "mobail offer 5g vivo",
+      "winner": "google",
+      "reason": [
+        "Relevance to the query: Google is the only engine that returns actual mobile phones (mobail offer 5g vivo), while close7 and close4 exclusively return phone cases.",
+        "Brand match: Google consistently returns products from the 'vivo' brand, directly matching the query. close7 and close4 return 'general' or 'generic' branded phone cases.",
+        "Product popularity: All products from close7 and close4 have a units_l30d_norm of 0, indicating no recent sales. Google's products also have 0 units_l30d_norm, but at least they are the correct product type.",
+        "Delivery desirability: Google offers 'express' delivery for most of its relevant products, which is better than the 'market' delivery offered by close7 and close4.",
+        "Ranking quality: Google's top results are highly relevant mobile phones. close7 and close4's top results are irrelevant phone cases, making their ranking quality very poor for this query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "2.0"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        },
+        {
+          "engine": "google",
+          "score": "9.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "scarf cap",
+      "winner": "google",
+      "reason": [
+        "Relevance: 'google' is significantly more relevant to the query 'scarf cap' as it primarily returns products that are actual scarf-caps or hijab undercaps, which combine both elements. 'close4' and 'close7' both have a highly irrelevant result at rank 1 (coat hooks) and then proceed to list mostly hijab undercaps, which are a specific type of scarf-cap but not the general intent.",
+        "Brand match: All engines have a high prevalence of 'generic' or less recognized brands, so there isn't a strong differentiator here. 'close4' and 'close7' have a few more distinct brand names, but 'google' also has some.",
+        "Product popularity: All products across all engines have a 'units_l30d_norm' of 0, indicating no recent sales data, so this criterion does not differentiate the engines.",
+        "Delivery desirability: All products across all engines have 'express' delivery, so this criterion does not differentiate the engines.",
+        "Ranking quality: 'google' demonstrates better ranking quality by placing relevant scarf-cap products at the top. 'close4' and 'close7' both fail significantly at rank 1 by including a completely irrelevant item (coat hooks), which severely impacts their ranking quality score. While the subsequent items in 'close4' and 'close7' are relevant to 'scarf cap' (specifically hijab undercaps), the initial irrelevant result is a major drawback.",
+        "Diversity of results: 'google' offers a slightly broader interpretation of 'scarf cap' beyond just hijab undercaps, although it still heavily features them. 'close4' and 'close7' are almost exclusively focused on hijab undercaps after the first irrelevant result."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "5.5"
+        },
+        {
+          "engine": "close7",
+          "score": "5.5"
+        },
+        {
+          "engine": "google",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0633\u0627\u0626\u0644 \u0627\u0643\u0631\u0644\u064a\u0643",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that correctly interprets '\u0633\u0627\u0626\u0644 \u0627\u0643\u0631\u0644\u064a\u0643' (Acrylic Liquid) and returns relevant products like acrylic mediums, acrylic nail products, and acrylic paint markers. Close4 and Close7 completely miss the 'acrylic' aspect and return general liquid products like laundry detergent and mosquito killer.",
+        "Google's results, while not perfect in every rank, consistently feature products directly related to acrylics, whereas Close4 and Close7 show no brand match or product relevance to the query.",
+        "The delivery desirability is consistent across all engines for the displayed products (all 'express'), so this criterion does not differentiate the engines significantly.",
+        "Product popularity (units_l30d_norm) is 0 for all products across all engines, making this criterion unhelpful for differentiation.",
+        "Google's ranking quality is superior because its top results are at least related to acrylics, even if some are for nails or art. Close4 and Close7's ranking quality is extremely poor as their top results are entirely irrelevant to the query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "1.5"
+        },
+        {
+          "engine": "close7",
+          "score": "1.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062a\u0643\u0646\u0648 \u0636\u062f \u0627\u0644\u0643\u0633\u0631",
+      "winner": "google",
+      "reason": [
+        "Google is the only engine that correctly interprets '\u062a\u0643\u0646\u0648' (Tecno) as a brand, with all its results being screen protectors specifically for Tecno phones.",
+        "Close4 and Close7 completely miss the '\u062a\u0643\u0646\u0648' (Tecno) brand, instead focusing on generic 'shatterproof' (\u0636\u062f \u0627\u0644\u0643\u0633\u0631) items, primarily large TV screen protectors and baby car mirrors.",
+        "Google's results are highly relevant to the query, offering products directly related to 'Tecno' and 'anti-breakage' (screen protectors).",
+        "Close4 and Close7's results are largely irrelevant due to the misinterpretation of the brand component of the query.",
+        "All engines show products with 'units_l30d_norm' of 0, so product popularity does not differentiate them.",
+        "All engines primarily offer 'express' delivery, so delivery desirability does not differentiate them.",
+        "Google demonstrates superior ranking quality by presenting highly relevant Tecno screen protectors at the top, whereas Close4 and Close7's top results are irrelevant large screen protectors."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.0"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "noon pressure cooker",
+      "winner": "google",
+      "reason": [
+        "Google consistently returns relevant 'pressure cooker' products, whereas close4 and close7 include irrelevant 'steam cleaner' and 'high pressure washer' items.",
+        "All engines show a lack of popular products (units_l30d_norm=0) for this query, making it difficult to differentiate based on popularity.",
+        "All engines primarily offer 'express' delivery, so delivery desirability is not a distinguishing factor.",
+        "Google's top 10 results are all pressure cookers, demonstrating superior relevance and ranking quality compared to close4 and close7 which have multiple non-pressure cooker items within their top 10.",
+        "Close4 and close7 are identical in their results and performance for this query, both suffering from significant relevance issues due to the inclusion of non-pressure cooker items."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "5.5"
+        },
+        {
+          "engine": "close7",
+          "score": "5.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0641\u0627\u0646\u0648\u0633 \u0631\u062d\u0644\u0627\u062a",
+      "winner": "google",
+      "reason": [
+        "All engines provide highly relevant results for '\u0641\u0627\u0646\u0648\u0633 \u0631\u062d\u0644\u0627\u062a' (camping lantern), with titles consistently matching the query's intent.",
+        "Google's results show a slightly wider variety of distinct products in the top 10 compared to close4 and close7, which have more duplicate or very similar listings (e.g., 'Camping Lantern | 3H Fast Charging...' appears multiple times with different brands or as generic).",
+        "All engines predominantly offer 'express' delivery, which is desirable. close4 and close7 introduce 'market' delivery items at ranks 8, 9, and 10, which are less desirable than 'express' delivery, whereas Google maintains 'express' delivery throughout its top 10.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all listed products for all engines, so this criterion does not differentiate them.",
+        "Google's ranking quality is marginally better due to less repetition of very similar products in the top ranks, offering a slightly more diverse initial selection to the user."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.0"
+        },
+        {
+          "engine": "close7",
+          "score": "8.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0642\u0637\u0639\u0647 \u0634\u062d\u0646 \u0642\u0644\u0645 \u0627\u064a\u0628\u0627\u062f",
+      "winner": "close7",
+      "reason": [
+        "Close7's top results are more relevant to '\u0642\u0637\u0639\u0647 \u0634\u062d\u0646 \u0642\u0644\u0645 \u0627\u064a\u0628\u0627\u062f' (iPad pen charging piece) by featuring actual iPad pens with charging capabilities or charging accessories for them, whereas Google's top results include generic styluses that are not specifically charging-related.",
+        "Close7 has a higher concentration of products directly related to 'iPad pen' and 'charging' in its top 10, including specific iPad stylus pens with fast charging (ranks 1, 2, 5, 6, 7, 8, 9, 10).",
+        "Google's results are diluted with generic 2-in-1 styluses (ranks 2, 6, 7) and general stylus pens (ranks 3, 4, 5, 9, 10) that, while for iPad, don't always emphasize the 'charging piece' aspect as strongly as Close7.",
+        "Close7's rank 4, an 'iPhone Cable 1M Apple MFi Certified Lightning Cable USB C to Lightning', is less relevant as it's a general charging cable, not specifically for an iPad pen charging piece, but it's an outlier in an otherwise strong set.",
+        "Google's rank 1 is a highly relevant 'Adapter for Apple Pencil 1-Piece Charging', which is excellent, but the subsequent results quickly diverge from the core query.",
+        "Neither engine shows significant product popularity (units_l30d_norm) for the displayed items, so this criterion does not differentiate them.",
+        "Both engines primarily offer 'express' delivery, so delivery desirability does not differentiate them."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "6.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0633\u0648\u0646\u064a \u0627\u0633\u0628\u064a\u062f\u0631\u0645\u0627\u0646",
+      "winner": "google",
+      "reason": [
+        "Google's results are highly relevant to the query '\u0633\u0648\u0646\u064a \u0627\u0633\u0628\u064a\u062f\u0631\u0645\u0627\u0646' (Sony Spiderman), featuring numerous Spider-Man games and accessories. In contrast, close4 and close7 completely miss the 'Spiderman' aspect of the query, focusing solely on general Sony PlayStation products.",
+        "Google consistently features products directly related to Spider-Man, including games and limited edition controllers, aligning perfectly with the user's intent. close4 and close7 only show generic PlayStation consoles and controllers, which are only partially relevant to 'Sony' and not at all to 'Spiderman'.",
+        "All engines show products with 'sony' as a brand or related to PlayStation, fulfilling the 'Sony' part of the query to some extent. However, Google excels by also incorporating the 'Spiderman' brand (via Insomniac Games, the developer of Spider-Man games, and Sony for licensed products).",
+        "All products across all engines have a 'delivery_type_tag' of 'express', so there is no differentiation based on delivery desirability.",
+        "Google's ranking quality is superior as its top results are the most relevant Spider-Man products (games and limited edition controllers). close4 and close7's top results are generic PS5 consoles, which are not what a user searching for 'Spiderman' would primarily be looking for.",
+        "The units_l30d_norm is 0 for all products across all engines, so product popularity cannot be used as a differentiating factor in this evaluation."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close4",
+          "score": "2.0"
+        },
+        {
+          "engine": "close7",
+          "score": "2.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "iphone 15 \u0628\u0644\u0633",
+      "winner": "close7",
+      "reason": [
+        "All engines show high relevance to the query 'iphone 15 \u0628\u0644\u0633' by returning various configurations of the iPhone 15 Plus.",
+        "All engines demonstrate excellent brand match, with the vast majority of results being from 'apple'.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all relevant products in all engines, so this criterion does not differentiate them.",
+        "Delivery desirability is consistently 'express' for all relevant iPhone 15 Plus products across all engines, making this criterion non-differentiating for the core products.",
+        "Google's results include a non-relevant item (a protective case) at rank 10, which slightly reduces its ranking quality compared to close7 and close4.",
+        "Close7 and close4 both provide a perfect set of iPhone 15 Plus models without any irrelevant items within the top 10, indicating superior ranking quality for this specific query.",
+        "Close7 and close4 have identical results and ranking for the top 10, making them equally strong performers. Since a single winner must be chosen, close7 is arbitrarily selected as the winner due to the tie."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "9.5"
+        },
+        {
+          "engine": "close4",
+          "score": "9.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "imou ranger 2",
+      "winner": "google",
+      "reason": [
+        "All engines show high relevance and brand match, with every product being an 'imou Ranger 2' variant.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all products in all engines, so this criterion does not differentiate them.",
+        "Delivery desirability is predominantly 'express' across all engines, with only one 'market' delivery type appearing at rank 6 in close4 and close7, which is a minor detractor.",
+        "Google's top results (ranks 1, 2, 3) offer a good variety of Ranger 2 models, including a 2-pack and a more generic 360-degree camera, which might cater to a broader user intent for 'imou ranger 2'.",
+        "Close4 and close7 have identical results and ranking, making them equally strong but slightly less diverse in their top results compared to Google.",
+        "Google's inclusion of 'Ranger Dual 6MP' at rank 4 and 'Ranger 2 5MP' at rank 5 shows a good range of Ranger 2 sub-models, potentially offering more options to the user earlier in the results."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        },
+        {
+          "engine": "google",
+          "score": "9.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "motorola g75 gorilla glass",
+      "winner": "close4",
+      "reason": [
+        "Both 'close4' and 'close7' engines are identical in their results and ranking for this query, hence they receive the same score.",
+        "Both 'close4' and 'close7' engines correctly identify that the user is likely looking for a screen protector for the Motorola G75, given the 'gorilla glass' context often refers to screen protection.",
+        "The 'google' engine includes several irrelevant products for different Motorola models (G05, G56, G86) at ranks 3, 4, 5, and 6, significantly reducing its relevance.",
+        "All engines have products with 0 units_l30d_norm, indicating no clear winner based on product popularity.",
+        "All engines primarily offer 'express' delivery, so there's no significant differentiation based on delivery desirability.",
+        "The inclusion of a Motorola smartwatch in 'close4' and 'close7' at rank 2, while containing 'Gorilla Glass 3', is less relevant than screen protectors for the G75, but still better than completely different phone models found in 'google'."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close4",
+          "score": "7.5"
+        },
+        {
+          "engine": "close7",
+          "score": "7.5"
+        },
+        {
+          "engine": "google",
+          "score": "4.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "gucci glass",
+      "winner": "google",
+      "reason": [
+        "All engines returned highly relevant products (Gucci sunglasses) and perfectly matched the brand 'Gucci'.",
+        "All products across all engines had a 'units_l30d_norm' of 0, meaning product popularity could not be used as a differentiator.",
+        "All products across all engines had the same 'delivery_type_tag' of 'express', meaning delivery desirability could not be used as a differentiator.",
+        "Google's results felt slightly more diverse in terms of sunglass styles (rectangle, square, aviator, cateye) within the top 10, although the other engines also offered good variety.",
+        "Google's top result, 'Full Rim Men Rectangle Sunglass - GG 1000/S 9UUIR - Lens Size: 57 mm - Black', felt like a strong, generic match for 'gucci glass' as a starting point, whereas close4 and close7 started with a 'Cat Eye Women Sunglass', which is more specific.",
+        "The ranking quality was generally good across all engines, with relevant Gucci sunglasses appearing at the top. Google is marginally better due to the slightly broader appeal of its top result."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "9.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "close7",
+          "score": "8.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062d\u0646\u0648\u0627\u0646",
+      "winner": "none",
+      "reason": [
+        "All engines returned identical results, making a comparative evaluation impossible.",
+        "The query '\u062d\u0646\u0648\u0627\u0646' appears to be a misspelling or an uncommon term, as all engines returned irrelevant products (treadmills, horse whips, perfume).",
+        "None of the products displayed any popularity data (units_l30d_norm: 0), so this criterion could not be used for differentiation.",
+        "All products across all engines had the same delivery desirability ('express').",
+        "Due to the complete lack of relevance and identical results, no engine can be considered better than another for this specific query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "1.0"
+        },
+        {
+          "engine": "close4",
+          "score": "1.0"
+        },
+        {
+          "engine": "close7",
+          "score": "1.0"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u062e\u0641\u0627\u0642\u0647 \u0634\u0627\u064a \u0627\u0644\u0645\u0627\u062a\u0634\u0627",
+      "winner": "close7",
+      "reason": [
+        "close7 and close4 are identical in their results, offering highly relevant matcha whisk sets at the top of their rankings.",
+        "Google's results are generally relevant, but it includes an 'Electric Frother' at rank 1 and a 'Resin Matcha Whisk' at rank 2, which are less traditional and potentially less aligned with the user's implied intent for a 'matcha tea whisk' (\u062e\u0641\u0627\u0642\u0647 \u0634\u0627\u064a \u0627\u0644\u0645\u0627\u062a\u0634\u0627) compared to the bamboo whisk sets dominating close7 and close4.",
+        "All engines primarily offer 'express' delivery, so there's no significant differentiation based on delivery desirability.",
+        "Product popularity (units_l30d_norm) is uniformly 0 across all results for all engines, making it a non-discriminating factor in this evaluation.",
+        "close7 and close4 maintain strong relevance throughout their top 10 results, consistently showing matcha whisk kits. Google, while mostly relevant, introduces a single resin whisk and an electric frother, slightly diluting its overall ranking quality for this specific query."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "8.5"
+        },
+        {
+          "engine": "close4",
+          "score": "8.5"
+        },
+        {
+          "engine": "google",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "\u0641\u0646\u064a\u0646\u0647 \u0631\u064a\u0627\u0636\u064a\u0647",
+      "winner": "google",
+      "reason": [
+        "The query '\u0641\u0646\u064a\u0646\u0647 \u0631\u064a\u0627\u0636\u064a\u0647' translates to 'sports fan' or 'sports art/decoration'. Google's results are significantly more relevant to 'sports art/decoration' with multiple 'Decorative Wall Art Painting With Sports Design' and 'Soccer Star Poster' items.",
+        "Close7 and Close4 both return a majority of children's clothing, toys, and general kids' items, which are largely irrelevant to the query's intent of 'sports fan' or 'sports art'.",
+        "Google's top results (ranks 1, 3, 5, 9) are highly relevant decorative sports items, directly matching the likely intent of the query.",
+        "While Google also includes some protein supplements (ranks 2, 6) and a generic water bottle (rank 8), these are still tangentially related to 'sports' and are fewer in number compared to the irrelevant items in Close7 and Close4.",
+        "All engines primarily offer 'express' delivery, so there's no significant differentiator in delivery desirability.",
+        "Product popularity (units_l30d_norm) is 0 for almost all products across all engines, making it not a useful differentiator in this case.",
+        "Google's ranking quality is superior because its top-ranked items are the most relevant to the query, unlike Close7 and Close4 which have irrelevant items at the top."
+      ],
+      "engine_scores": [
+        {
+          "engine": "close7",
+          "score": "3.5"
+        },
+        {
+          "engine": "close4",
+          "score": "3.5"
+        },
+        {
+          "engine": "google",
+          "score": "7.5"
+        }
+      ],
+      "engine_products": {}
+    },
+    {
+      "country": "sa",
+      "query": "tecno sem 64 mb",
+      "winner": "google",
+      "reason": [
+        "Google's results are completely irrelevant to the query 'tecno sem 64 mb'. All products listed are 'itel' brand phones with significantly different specifications (e.g., 8+16GB RAM, 256GB storage) and none mention 'sem' or '64 mb'.",
+        "There is no brand match for 'Tecno' in Google's results; all products are from the 'itel' brand.",
+        "All products in Google's results have a 'units_l30d_norm' of 0, indicating no recent popularity, which is a negative factor.",
+        "While Google offers 'express' delivery for some items, the complete lack of relevance and brand match makes delivery desirability a moot point.",
+        "The ranking quality is poor as all items are irrelevant to the query, making any internal ordering within the irrelevant results meaningless in the context of the user's search."
+      ],
+      "engine_scores": [
+        {
+          "engine": "google",
+          "score": "1.0"
+        }
+      ],
+      "engine_products": {}
+    }
+  ],
+  "countrySummaries": [
+    {
+      "country": "sa",
+      "ranking": [],
+      "final_verdict": "",
+      "key_differences": [],
+      "engine_summary": {}
+    }
+  ]
+}
